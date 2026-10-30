@@ -1,0 +1,344 @@
+[
+  {
+    "speaker": "narrator",
+    "text": "离家的第三年，林舟收到父亲的信。只有一行：灯坏了，能回来一趟吗。",
+    "x": 570,
+    "y": 1250,
+    "pose": "idle",
+    "id": "homecoming_0",
+    "voice": "assets/voice/homecoming_0.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "我以为，等我有了出息，再回来也不迟。",
+    "x": 600,
+    "y": 1290,
+    "pose": "look",
+    "id": "homecoming_1",
+    "voice": "assets/voice/homecoming_1.mp3"
+  },
+  {
+    "speaker": "father",
+    "text": "饭还热着。先回家。",
+    "x": 550,
+    "y": 1240,
+    "pose": "reach",
+    "id": "homecoming_2",
+    "voice": "assets/voice/homecoming_2.mp3"
+  },
+  {
+    "speaker": "narrator",
+    "text": "他没有问这些年过得好不好，只把门口那双旧拖鞋，往前推了推。",
+    "x": 555,
+    "y": 1240,
+    "pose": "idle",
+    "id": "homecoming_3",
+    "voice": "assets/voice/homecoming_3.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "娘的音乐盒呢？以前这个时候，她总在窗边放那支曲子。",
+    "x": 590,
+    "y": 1270,
+    "pose": "idle",
+    "id": "letter_0",
+    "voice": "assets/voice/letter_0.mp3"
+  },
+  {
+    "speaker": "father",
+    "text": "在西边的旧花园。她说，那里听得见你小时候的笑声。",
+    "x": 550,
+    "y": 1240,
+    "pose": "idle",
+    "id": "letter_1",
+    "voice": "assets/voice/letter_1.mp3"
+  },
+  {
+    "speaker": "father",
+    "text": "雨先落在窗上，风再穿过树林，最后……是灯。她教你的，你还记得吧。",
+    "x": 550,
+    "y": 1240,
+    "pose": "idle",
+    "id": "letter_2",
+    "voice": "assets/voice/letter_2.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "我记得。只是很久没有好好听了。",
+    "x": 590,
+    "y": 1270,
+    "pose": "idle",
+    "id": "letter_3",
+    "voice": "assets/voice/letter_3.mp3"
+  },
+  {
+    "speaker": "mother",
+    "text": "小舟，饭凉了可以再热。路走远了，也可以慢慢回来。",
+    "x": 460,
+    "y": 490,
+    "pose": "reach",
+    "id": "music_0",
+    "voice": "assets/voice/music_0.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "娘，对不起。那年冬天，我应该早点回来。",
+    "x": 430,
+    "y": 515,
+    "pose": "kneel",
+    "id": "music_1",
+    "voice": "assets/voice/music_1.mp3"
+  },
+  {
+    "speaker": "mother",
+    "text": "别把一辈子都用来补那一天。你要好好吃饭，好好爱人。",
+    "x": 468,
+    "y": 475,
+    "pose": "idle",
+    "id": "music_2",
+    "voice": "assets/voice/music_2.mp3"
+  },
+  {
+    "speaker": "narrator",
+    "text": "音乐盒的最后一格，藏着一枚褪色的纽扣。是她一直没舍得扔掉的，林舟的第一件外衣。",
+    "x": 435,
+    "y": 480,
+    "pose": "idle",
+    "id": "music_3",
+    "voice": "assets/voice/music_3.mp3"
+  },
+  {
+    "speaker": "suwan",
+    "text": "你回来了。我本来想，放完这盏河灯，就去南边看看海。",
+    "x": 1550,
+    "y": 1160,
+    "pose": "idle",
+    "id": "reunion_0",
+    "voice": "assets/voice/reunion_0.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "我以为你会一直在这里。",
+    "x": 1510,
+    "y": 1190,
+    "pose": "idle",
+    "id": "reunion_1",
+    "voice": "assets/voice/reunion_1.mp3"
+  },
+  {
+    "speaker": "suwan",
+    "text": "我喜欢你，林舟。但喜欢一个人，不该只剩下等。",
+    "x": 1550,
+    "y": 1160,
+    "pose": "look",
+    "id": "reunion_2",
+    "voice": "assets/voice/reunion_2.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "那这段路，让我陪你走。就从把灯送到桥下开始。",
+    "x": 1510,
+    "y": 1190,
+    "pose": "reach",
+    "id": "reunion_3",
+    "voice": "assets/voice/reunion_3.mp3"
+  },
+  {
+    "speaker": "suwan",
+    "text": "灯里写的，是我想做的事。开一间小书店，冬天也卖热茶。",
+    "x": 1145,
+    "y": 927,
+    "pose": "kneel",
+    "id": "river_0",
+    "voice": "assets/voice/river_0.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "以前我总说，等以后。却没问过，你的以后是什么样。",
+    "x": 1100,
+    "y": 927,
+    "pose": "idle",
+    "id": "river_1",
+    "voice": "assets/voice/river_1.mp3"
+  },
+  {
+    "speaker": "suwan",
+    "text": "那现在开始问，也不算太晚。旧塔里还有我们画的星图，你愿意一起去吗？",
+    "x": 1145,
+    "y": 927,
+    "pose": "reach",
+    "id": "river_2",
+    "voice": "assets/voice/river_2.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "愿意。这一次，我把答案说在现在。",
+    "x": 1100,
+    "y": 927,
+    "pose": "idle",
+    "id": "river_3",
+    "voice": "assets/voice/river_3.mp3"
+  },
+  {
+    "speaker": "suwan",
+    "text": "小时候你说，走到最亮的那颗星下面，就能看见海。",
+    "x": 1435,
+    "y": 390,
+    "pose": "idle",
+    "id": "stars_0",
+    "voice": "assets/voice/stars_0.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "后来我走了很远。见过许多灯，却没有一盏让我想停下来。",
+    "x": 1385,
+    "y": 400,
+    "pose": "idle",
+    "id": "stars_1",
+    "voice": "assets/voice/stars_1.mp3"
+  },
+  {
+    "speaker": "suwan",
+    "text": "你要找的，也许从来不是最亮的那一盏。",
+    "x": 1435,
+    "y": 390,
+    "pose": "reach",
+    "id": "stars_2",
+    "voice": "assets/voice/stars_2.mp3"
+  },
+  {
+    "speaker": "narrator",
+    "text": "星图亮起时，林舟发现父亲这些年修补过每一面镜子。他沉默地，替两个孩子保管着远方。",
+    "x": 1410,
+    "y": 360,
+    "pose": "idle",
+    "id": "stars_3",
+    "voice": "assets/voice/stars_3.mp3"
+  },
+  {
+    "speaker": "father",
+    "text": "你娘走之前，托我写信叫你回来。我怕耽误你的前程，把信压在了抽屉里。",
+    "x": 550,
+    "y": 1240,
+    "pose": "kneel",
+    "id": "father_0",
+    "voice": "assets/voice/father_0.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "我一直以为，你怪我没有回来。",
+    "x": 580,
+    "y": 1272,
+    "pose": "idle",
+    "id": "father_1",
+    "voice": "assets/voice/father_1.mp3"
+  },
+  {
+    "speaker": "father",
+    "text": "我是在怪自己。修得好一村的灯，却不知道怎么跟自己的孩子说话。",
+    "x": 550,
+    "y": 1240,
+    "pose": "idle",
+    "id": "father_2",
+    "voice": "assets/voice/father_2.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "爹，以后想我，就说想我。别再等灯坏了。",
+    "x": 580,
+    "y": 1272,
+    "pose": "reach",
+    "id": "father_3",
+    "voice": "assets/voice/father_3.mp3"
+  },
+  {
+    "speaker": "father",
+    "text": "好。这把剑陪我走过很多夜路。最后那段路，你们一起走吧。",
+    "x": 550,
+    "y": 1240,
+    "pose": "reach",
+    "id": "father_4",
+    "voice": "assets/voice/father_4.mp3"
+  },
+  {
+    "speaker": "narrator",
+    "text": "没有说出口的思念，在遗迹里长成了盘结的树根。它守着旧日，也挡住了明天。",
+    "x": 2005,
+    "y": 415,
+    "pose": "idle",
+    "id": "guardian_0",
+    "voice": "assets/voice/guardian_0.mp3"
+  },
+  {
+    "speaker": "suwan",
+    "text": "我在这里。你不用再一个人撑着。",
+    "x": 2045,
+    "y": 615,
+    "pose": "reach",
+    "id": "guardian_1",
+    "voice": "assets/voice/guardian_1.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "我们不是来忘记谁的。我们是来带着他们，继续往前走。",
+    "x": 2005,
+    "y": 600,
+    "pose": "idle",
+    "id": "guardian_2",
+    "voice": "assets/voice/guardian_2.mp3"
+  },
+  {
+    "speaker": "narrator",
+    "text": "灯塔重新亮起。它没有让离开的人回来，却照见了仍然站在身边的人。",
+    "x": 2010,
+    "y": 235,
+    "pose": "idle",
+    "id": "ending_0",
+    "voice": "assets/voice/ending_0.mp3"
+  },
+  {
+    "speaker": "father",
+    "text": "你娘要是看见，准会说，灯修好了，该回家吃饭了。",
+    "x": 1940,
+    "y": 320,
+    "pose": "idle",
+    "id": "ending_1",
+    "voice": "assets/voice/ending_1.mp3"
+  },
+  {
+    "speaker": "hero",
+    "text": "明天，我们先陪您吃顿早饭。然后，我想和苏晚一起，把日子过成喜欢的样子。",
+    "x": 1985,
+    "y": 285,
+    "pose": "reach",
+    "id": "ending_2",
+    "voice": "assets/voice/ending_2.mp3"
+  },
+  {
+    "speaker": "suwan",
+    "text": "等小书店开张，靠窗的位置，永远给您留着。",
+    "x": 2030,
+    "y": 290,
+    "pose": "reach",
+    "id": "ending_3",
+    "voice": "assets/voice/ending_3.mp3"
+  },
+  {
+    "speaker": "mother",
+    "text": "小舟，天亮了。往前走吧。",
+    "x": 2010,
+    "y": 215,
+    "pose": "idle",
+    "id": "ending_4",
+    "voice": "assets/voice/ending_4.mp3"
+  },
+  {
+    "speaker": "narrator",
+    "text": "有些遗憾不会消失。但从今往后，爱不必再等到来不及的时候，才被说出口。",
+    "x": 2010,
+    "y": 235,
+    "pose": "idle",
+    "id": "ending_5",
+    "voice": "assets/voice/ending_5.mp3"
+  }
+]

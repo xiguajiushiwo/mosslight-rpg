@@ -1,0 +1,11 @@
+{
+  "id": "river_2",
+  "speaker": "suwan",
+  "path": "assets/voice/river_2.mp3",
+  "voice": "zh-CN-XiaoyiNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "bytes": 48240,
+  "durationSeconds": 7.976,
+  "textSha256": "410d31f31a95e3ff0d5a415a34370e8e91e510bbe87b49b265a513cf71d7f6dc"
+}

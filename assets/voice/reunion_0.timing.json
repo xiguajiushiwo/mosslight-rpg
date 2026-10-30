@@ -1,0 +1,11 @@
+{
+  "id": "reunion_0",
+  "speaker": "suwan",
+  "path": "assets/voice/reunion_0.mp3",
+  "voice": "zh-CN-XiaoyiNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "bytes": 37296,
+  "durationSeconds": 6.155,
+  "textSha256": "8209bdc92581d7896e0f7776db5c84d407b6421d3fdf21b24b5fdc1b509ff360"
+}

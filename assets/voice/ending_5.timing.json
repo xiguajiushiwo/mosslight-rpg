@@ -1,0 +1,11 @@
+{
+  "id": "ending_5",
+  "speaker": "narrator",
+  "path": "assets/voice/ending_5.mp3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-10%",
+  "pitch": "-2Hz",
+  "bytes": 51840,
+  "durationSeconds": 8.583,
+  "textSha256": "b86efe27253c4b5d15443562791b8a324a98416f0767bdf858d53bab4b3a57ab"
+}

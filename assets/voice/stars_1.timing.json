@@ -1,0 +1,11 @@
+{
+  "id": "stars_1",
+  "speaker": "hero",
+  "path": "assets/voice/stars_1.mp3",
+  "voice": "zh-CN-YunxiNeural",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "bytes": 37728,
+  "durationSeconds": 6.223,
+  "textSha256": "8274157b96a736138d101ed4bb5275eb1fbe66ecdb798ff8ae55151cc2fd4574"
+}

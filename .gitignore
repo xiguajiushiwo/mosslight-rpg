@@ -1,0 +1,9 @@
+.tools/
+production/qa/action-frames/
+production/qa/journey-action-frames/
+production/qa/server*.log
+production/audio/**/generation.log
+__pycache__/
+.env
+.env.*
+!.env.example

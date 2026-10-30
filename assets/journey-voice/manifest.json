@@ -1,0 +1,2903 @@
+{
+  "source": "Microsoft Edge Read Aloud via edge-tts 7.3.1",
+  "lines": [
+    {
+      "id": "j_main_0_intro_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "737ea571d005749a9870bbb2ea5341d723ff0f0063ea3d39fb0cf16a6e2709ac",
+      "bytes": 36144,
+      "durationSeconds": 6.024,
+      "path": "assets/journey-voice/j_main_0_intro_0.mp3"
+    },
+    {
+      "id": "j_main_0_intro_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "a1ea84bb9fef41f2e09e42c833ad2386ce6520c5f1419ac3832dab10acacb693",
+      "bytes": 45792,
+      "durationSeconds": 7.565,
+      "path": "assets/journey-voice/j_main_0_intro_1.mp3"
+    },
+    {
+      "id": "j_main_0_outro_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "7eab4d188a73babb8fb7dd5ccca788fa0ce72aea369de7514cb343ec66d8f107",
+      "bytes": 43488,
+      "durationSeconds": 7.174,
+      "path": "assets/journey-voice/j_main_0_outro_0.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_0_lines_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "2b20f72240a7a5f748761c3ede3f1f6c223fef941508fe42a102115d3dca6554",
+      "bytes": 21456,
+      "durationSeconds": 3.519,
+      "path": "assets/journey-voice/j_main_0_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_0_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "8de31e13e26e18e9cba1f1f18c5faa2e9de50e2bec393b4bb9bc24f373114ee6",
+      "bytes": 25776,
+      "durationSeconds": 4.282,
+      "path": "assets/journey-voice/j_main_0_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_0_lines_2",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "f0a565a23c2f11774741d6ddd747094597caf937d669eaef4b09c0ebffd35316",
+      "bytes": 18576,
+      "durationSeconds": 3.03,
+      "path": "assets/journey-voice/j_main_0_nodes_0_lines_2.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_0_lines_3",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "dc53006f022867ca2235a7b50e60db729c2758eb3bd2e5e1c3c7a7e7f488db0b",
+      "bytes": 32544,
+      "durationSeconds": 5.418,
+      "path": "assets/journey-voice/j_main_0_nodes_0_lines_3.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_0_choices_0_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "c9fd6357979b9385769ef00fac5f4cd70ba8b7cb6ad56f01607acc3a0f0b79d4",
+      "bytes": 49824,
+      "durationSeconds": 8.25,
+      "path": "assets/journey-voice/j_main_0_nodes_0_choices_0_result_0.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_0_choices_1_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "db77d36251854e675402296c2a872090f17f112dce6ea5bf68f998a843d3d7b4",
+      "bytes": 43056,
+      "durationSeconds": 7.118,
+      "path": "assets/journey-voice/j_main_0_nodes_0_choices_1_result_0.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_1_lines_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "42d4dfdc653332b0f9cc41e417df10d81269b86fa8bb3eae5caa5e856b82636d",
+      "bytes": 38880,
+      "durationSeconds": 6.427,
+      "path": "assets/journey-voice/j_main_0_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "937a18d44c60b5538da41ce4b42e9eb6d21ff3c6fa6fe8b42cf743d640f23a40",
+      "bytes": 16416,
+      "durationSeconds": 2.719,
+      "path": "assets/journey-voice/j_main_0_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_1_lines_2",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "9311e8b40d7dca5dc3030079842c4d103df9937b981c258df50d0bd05e53eaba",
+      "bytes": 41040,
+      "durationSeconds": 6.766,
+      "path": "assets/journey-voice/j_main_0_nodes_1_lines_2.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_1_after_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "011652471135235fcd7fe92356fbb5fbbb941006d1b96e956a85f1440827010c",
+      "bytes": 36000,
+      "durationSeconds": 5.938,
+      "path": "assets/journey-voice/j_main_0_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_2_lines_0",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "0122f9efeff950a98ba4c7daab334f190e22ad68ebb5d976a7f768036e2183de",
+      "bytes": 39888,
+      "durationSeconds": 6.6,
+      "path": "assets/journey-voice/j_main_0_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "01281522f4239d27ebdae90e5393949cc20ecf168aabfae736cd783f3ae97e3d",
+      "bytes": 14544,
+      "durationSeconds": 2.407,
+      "path": "assets/journey-voice/j_main_0_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_2_lines_2",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "eeebfccf292ebc391b7080c5f64ee58442f4fd95f10faadb0312143953e3d776",
+      "bytes": 40752,
+      "durationSeconds": 6.725,
+      "path": "assets/journey-voice/j_main_0_nodes_2_lines_2.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_2_lines_3",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "0e5d0796b704778c953b2dfd21c9d7c0027a7102c91ed81e89d9615293ceb3f0",
+      "bytes": 39168,
+      "durationSeconds": 6.461,
+      "path": "assets/journey-voice/j_main_0_nodes_2_lines_3.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_3_lines_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "0d8eec3d9aeb679da179232ffd7bcebc1e63045b81e309df5d38c358d983e6c6",
+      "bytes": 38736,
+      "durationSeconds": 6.436,
+      "path": "assets/journey-voice/j_main_0_nodes_3_lines_0.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_3_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "e43616eca2ff64f9d17e8239221ee2434c853e8968275c424d24838e8bc719e6",
+      "bytes": 21024,
+      "durationSeconds": 3.501,
+      "path": "assets/journey-voice/j_main_0_nodes_3_lines_1.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_3_lines_2",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "2d2d2d787f2ac9cbba34d88f4a47b9532756a1748385b6060dfdb137f2ab0d57",
+      "bytes": 24048,
+      "durationSeconds": 3.99,
+      "path": "assets/journey-voice/j_main_0_nodes_3_lines_2.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_3_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "62b380fd5a51af1b55f26c41bcb1dcffc4ef609037191c7f7505ad275e37f535",
+      "bytes": 48240,
+      "durationSeconds": 7.974,
+      "path": "assets/journey-voice/j_main_0_nodes_3_after_0.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_4_lines_0",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "80d90eb16acf238675433b54a714db5ac055da87faf1356a3681fbc6b2a1a3f4",
+      "bytes": 35280,
+      "durationSeconds": 5.825,
+      "path": "assets/journey-voice/j_main_0_nodes_4_lines_0.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_4_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "e9bd5c2800368003416832e57a08c7d3370e29f4edc4c42df37fe6597c152b3f",
+      "bytes": 19296,
+      "durationSeconds": 3.201,
+      "path": "assets/journey-voice/j_main_0_nodes_4_lines_1.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_4_lines_2",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "591f19ee44585e5a07eadc93f9ff9e53c26dca0c0c717cec38ce835b90dce403",
+      "bytes": 25056,
+      "durationSeconds": 4.125,
+      "path": "assets/journey-voice/j_main_0_nodes_4_lines_2.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_4_after_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "293fbb1a49e47c1d4c774db52551dc3c34876ea937ec35e75d3adce2a4de476b",
+      "bytes": 41616,
+      "durationSeconds": 6.861,
+      "path": "assets/journey-voice/j_main_0_nodes_4_after_0.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_5_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "8421b2e870bdb531f8c96c095bf18ecc1ae3ae514207e8b7277ad6e5a3725801",
+      "bytes": 43776,
+      "durationSeconds": 7.24,
+      "path": "assets/journey-voice/j_main_0_nodes_5_lines_0.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_5_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "e2a5c5b95d5290b3d8ac3f7bb7bbf5987d09e12e3c7f940c61461c807ef4680e",
+      "bytes": 13968,
+      "durationSeconds": 2.329,
+      "path": "assets/journey-voice/j_main_0_nodes_5_lines_1.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_5_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "164aca69613ec68e768aa6e81e8352b423565357a32367630ce88995c35fe32d",
+      "bytes": 27648,
+      "durationSeconds": 4.607,
+      "path": "assets/journey-voice/j_main_0_nodes_5_lines_2.mp3"
+    },
+    {
+      "id": "j_main_0_nodes_5_lines_3",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "61d74d0ecaa202d93d4d4e4b4c214467a2ef69898fefb7825f44eea37186c2e8",
+      "bytes": 30816,
+      "durationSeconds": 5.065,
+      "path": "assets/journey-voice/j_main_0_nodes_5_lines_3.mp3"
+    },
+    {
+      "id": "j_main_1_intro_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "71444d4dd5e195500c54623caca7095e88b090a3bd891ccde51f4fd86030a2e2",
+      "bytes": 43488,
+      "durationSeconds": 7.197,
+      "path": "assets/journey-voice/j_main_1_intro_0.mp3"
+    },
+    {
+      "id": "j_main_1_outro_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "e5afdaf9d82991751184f902d7474140faabd23d395d2b6947c0295602c62743",
+      "bytes": 41328,
+      "durationSeconds": 6.823,
+      "path": "assets/journey-voice/j_main_1_outro_0.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_0_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "04c57f69a24887cab9d79d5e1966a5b83a7948166ca1c889282cf5de826609d7",
+      "bytes": 30096,
+      "durationSeconds": 5.011,
+      "path": "assets/journey-voice/j_main_1_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_0_lines_1",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "762f565c6d29f7b1548fffd509ed1fb4190f5568f84a4d1f34b235660d24e8ec",
+      "bytes": 36576,
+      "durationSeconds": 6.029,
+      "path": "assets/journey-voice/j_main_1_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_0_lines_2",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "8e2377334f2ef60bae4579c6600c423afa48acf98da49637e2ac1e7d1b730b12",
+      "bytes": 11664,
+      "durationSeconds": 1.938,
+      "path": "assets/journey-voice/j_main_1_nodes_0_lines_2.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_0_lines_3",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "17b082baa339453b19f65e354b0c8bc3a521d3a7703d9fdd20216d38b19e8b52",
+      "bytes": 24768,
+      "durationSeconds": 4.076,
+      "path": "assets/journey-voice/j_main_1_nodes_0_lines_3.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_1_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "c2557c2816ce32263f017232567a34652e978601c1a83104ed997d2f5a429d79",
+      "bytes": 32832,
+      "durationSeconds": 5.467,
+      "path": "assets/journey-voice/j_main_1_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "e768b4585997eb6425521a61cfaad1173cdd88f4156b555b99dbd60a5468dcd7",
+      "bytes": 14688,
+      "durationSeconds": 2.433,
+      "path": "assets/journey-voice/j_main_1_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_1_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "fa1efe50800e82dd61c9d1a70de58c04f9d341f4bbec308a4453204c35449ca4",
+      "bytes": 31824,
+      "durationSeconds": 5.234,
+      "path": "assets/journey-voice/j_main_1_nodes_1_lines_2.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_1_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "9da0da5ff23f08c1ae9dfbb6431b0c3ad8c247c4e14377b92a0d7152fe03ef44",
+      "bytes": 43344,
+      "durationSeconds": 7.158,
+      "path": "assets/journey-voice/j_main_1_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_2_lines_0",
+      "speaker": "mother",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "8d301101ba8d5230155898b4b31b00be42c4886364dc987749fadc00b4b2849e",
+      "bytes": 31680,
+      "durationSeconds": 5.281,
+      "path": "assets/journey-voice/j_main_1_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "7592ec8503db350d81f1c7968f3ba3041d6f8484ef88d7370f9a9def9aba3b8d",
+      "bytes": 32688,
+      "durationSeconds": 5.378,
+      "path": "assets/journey-voice/j_main_1_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_2_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "aebc30bf7148879c3739cba42a523684a392eee9a80a11a25001b084b1d2a863",
+      "bytes": 24912,
+      "durationSeconds": 4.102,
+      "path": "assets/journey-voice/j_main_1_nodes_2_lines_2.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_2_after_0",
+      "speaker": "mother",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "1f810c4294c68b322d74bbe32b1d8e654cd64801fd17a7d9841f53f1d426fd78",
+      "bytes": 35568,
+      "durationSeconds": 5.87,
+      "path": "assets/journey-voice/j_main_1_nodes_2_after_0.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_3_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "fcdb05697ad99ca1bf9107cb5c173a5eb81fe18f030c672fa2ca91a22b0dddec",
+      "bytes": 41184,
+      "durationSeconds": 6.822,
+      "path": "assets/journey-voice/j_main_1_nodes_3_lines_0.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_3_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "7fc26dade5db0762f67f0585de12519ab3ee3a48dcefee082660cc267fbd699f",
+      "bytes": 19728,
+      "durationSeconds": 3.266,
+      "path": "assets/journey-voice/j_main_1_nodes_3_lines_1.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_3_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "9922bab99d37c806c0b48a9152117600e64b1dc6f7c86ab83f3be54544d39496",
+      "bytes": 24624,
+      "durationSeconds": 4.086,
+      "path": "assets/journey-voice/j_main_1_nodes_3_lines_2.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_3_lines_3",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "bb4a18cacf0c27dd221081818553f563718da789fd7698f31b04cac1d5714baa",
+      "bytes": 17136,
+      "durationSeconds": 2.849,
+      "path": "assets/journey-voice/j_main_1_nodes_3_lines_3.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_3_choices_0_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "fb694a8b96779d7ed5a4ca691633bbf446cba0f42b57bb323c4b2b087c33d85c",
+      "bytes": 36000,
+      "durationSeconds": 5.947,
+      "path": "assets/journey-voice/j_main_1_nodes_3_choices_0_result_0.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_3_choices_1_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "8cf5d7ab3ad01adc05f447ab2aa0dc9f0b318ac992024b61b6f909f09ee3f18c",
+      "bytes": 40176,
+      "durationSeconds": 6.632,
+      "path": "assets/journey-voice/j_main_1_nodes_3_choices_1_result_0.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_4_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "818443abcb9f3898614d68281e416a56810c93c2e8514cfd1d304ad9defb7770",
+      "bytes": 41328,
+      "durationSeconds": 6.823,
+      "path": "assets/journey-voice/j_main_1_nodes_4_lines_0.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_4_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "c387b4ed002a75d03565b762757366a932010f713297762d93f63c2627d2023f",
+      "bytes": 25776,
+      "durationSeconds": 4.282,
+      "path": "assets/journey-voice/j_main_1_nodes_4_lines_1.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_4_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "80faa82362ea237930d4c978af330b227e5d505fe7be53bdb13bc249da81f5ab",
+      "bytes": 33696,
+      "durationSeconds": 5.547,
+      "path": "assets/journey-voice/j_main_1_nodes_4_lines_2.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_4_after_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "2d567e5c17efeae86d79d0e41cf54f00d83f12b10f926424af11a99f2cf4ef33",
+      "bytes": 39744,
+      "durationSeconds": 6.549,
+      "path": "assets/journey-voice/j_main_1_nodes_4_after_0.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_5_lines_0",
+      "speaker": "mother",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "7cdf51bf08f5ea27fe3728cb150ac55fb45d9aaaef9ffbca863ed88c7bc9ff67",
+      "bytes": 56736,
+      "durationSeconds": 9.402,
+      "path": "assets/journey-voice/j_main_1_nodes_5_lines_0.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_5_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "88474e4ed006083b3da3def7dbd8330e0aec1d779db301a23180e257bbe3857f",
+      "bytes": 16992,
+      "durationSeconds": 2.81,
+      "path": "assets/journey-voice/j_main_1_nodes_5_lines_1.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_5_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "e82aeae3b1543feb0cdb1b9ff7daab0cef28804d6f1a922fadb47db710bdf3db",
+      "bytes": 20160,
+      "durationSeconds": 3.344,
+      "path": "assets/journey-voice/j_main_1_nodes_5_lines_2.mp3"
+    },
+    {
+      "id": "j_main_1_nodes_5_lines_3",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "14955d76b8aa255b4242cfa5b7fcd98175a08e028d7be4ef14a1233982e3e9d2",
+      "bytes": 47232,
+      "durationSeconds": 7.803,
+      "path": "assets/journey-voice/j_main_1_nodes_5_lines_3.mp3"
+    },
+    {
+      "id": "j_main_2_intro_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "ee95df11e26c0d1f298f03a8dacc9747a57378e2dd7b306ed635a2856427ceba",
+      "bytes": 46368,
+      "durationSeconds": 7.669,
+      "path": "assets/journey-voice/j_main_2_intro_0.mp3"
+    },
+    {
+      "id": "j_main_2_outro_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "457d5995b11dff42c3db7a9ce1cd4a609fdc1afceb42237586881c7889d4519a",
+      "bytes": 46656,
+      "durationSeconds": 7.724,
+      "path": "assets/journey-voice/j_main_2_outro_0.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_0_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "e16c83b01c8ebcd1c67487c23da9709dc902a2bd4259c526b459e511ae5376a5",
+      "bytes": 16416,
+      "durationSeconds": 2.719,
+      "path": "assets/journey-voice/j_main_2_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_0_lines_1",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "8c7d3cfe7689aa40981acfb58cedeb2df6542a5c253addcfcf24998bb2c33398",
+      "bytes": 47232,
+      "durationSeconds": 7.813,
+      "path": "assets/journey-voice/j_main_2_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_0_lines_2",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "0a2a9488abbfec2bcfb63dd704b0e7fd2c660ebbbc1d3d44eb5729e997b516c7",
+      "bytes": 21456,
+      "durationSeconds": 3.566,
+      "path": "assets/journey-voice/j_main_2_nodes_0_lines_2.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_0_lines_3",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "c52bcbbd686e9b617994f4e08900f6ce3753164b0931c4a6c0d398b203342788",
+      "bytes": 15696,
+      "durationSeconds": 2.615,
+      "path": "assets/journey-voice/j_main_2_nodes_0_lines_3.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_0_choices_0_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "fec3a6f54edede601449f541715437aeda35df75cf98ae3f2911770ed7f7a57d",
+      "bytes": 44640,
+      "durationSeconds": 7.382,
+      "path": "assets/journey-voice/j_main_2_nodes_0_choices_0_result_0.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_0_choices_1_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "a53b067a0ebaea555ae3f77fcfe4ed152a742086e7738b5ea0236a86cf82987a",
+      "bytes": 48528,
+      "durationSeconds": 8.039,
+      "path": "assets/journey-voice/j_main_2_nodes_0_choices_1_result_0.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_1_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "4817246efcf9510780fbcea4dc4e3d790f48fce0142786f99ae26812d8461fb5",
+      "bytes": 32832,
+      "durationSeconds": 5.404,
+      "path": "assets/journey-voice/j_main_2_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "7b413cbdefb3ece78be0d39c82acf8bff7bea9e402ec230e85e683eb3d68cdf9",
+      "bytes": 21888,
+      "durationSeconds": 3.631,
+      "path": "assets/journey-voice/j_main_2_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_1_lines_2",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "b86fc833e8c7252ce04f96254e5e2944b7ebaba52585776987549369574a559f",
+      "bytes": 40176,
+      "durationSeconds": 6.645,
+      "path": "assets/journey-voice/j_main_2_nodes_1_lines_2.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_1_after_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "d81511ada654ca324b5bd59882335f63fd78684219b0ca522e2d9c80c69934c0",
+      "bytes": 49680,
+      "durationSeconds": 8.229,
+      "path": "assets/journey-voice/j_main_2_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_2_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "cc1a1b467d4d28dcf12072ec45eed96de446a4c3ae8586f965029d590401ff83",
+      "bytes": 40320,
+      "durationSeconds": 6.654,
+      "path": "assets/journey-voice/j_main_2_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "4b7ca58f047b582ceb05fe1a938310323023b5046876e244d806a83f16e52e1a",
+      "bytes": 15840,
+      "durationSeconds": 2.628,
+      "path": "assets/journey-voice/j_main_2_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_2_lines_2",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "712a8dd639cf33df4653e01467e5313a74d76cf33244c818973cb2442c68c058",
+      "bytes": 28944,
+      "durationSeconds": 4.766,
+      "path": "assets/journey-voice/j_main_2_nodes_2_lines_2.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_2_lines_3",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "7e4352cf9fb84767bb5db950403ec7ac24f7e16efb391572771af47010d5f9fd",
+      "bytes": 31824,
+      "durationSeconds": 5.287,
+      "path": "assets/journey-voice/j_main_2_nodes_2_lines_3.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_3_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "20e8c4080094660a44494cc5e489f7a69c152644058393449a4791a434fcba36",
+      "bytes": 38304,
+      "durationSeconds": 6.365,
+      "path": "assets/journey-voice/j_main_2_nodes_3_lines_0.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_3_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "902ecb8593e2dc0a7b19fafc3f412818da8a1cfd4434431bede1f8b587e52ee4",
+      "bytes": 22752,
+      "durationSeconds": 3.787,
+      "path": "assets/journey-voice/j_main_2_nodes_3_lines_1.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_3_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "8cd112e2ee648a0441c1c97bb64705d263fb7b2decd4ade50dc6e34d70fc61ac",
+      "bytes": 21744,
+      "durationSeconds": 3.605,
+      "path": "assets/journey-voice/j_main_2_nodes_3_lines_2.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_3_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "b763f1bc22922d88b522852b83ed3cf4d54f06e23923242ac3a0b070f7ba835e",
+      "bytes": 46512,
+      "durationSeconds": 7.684,
+      "path": "assets/journey-voice/j_main_2_nodes_3_after_0.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_4_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "7147077b10e1005a633115732202cb9593be8a8c486bd2c0292ddeecdd6e15fc",
+      "bytes": 38160,
+      "durationSeconds": 6.339,
+      "path": "assets/journey-voice/j_main_2_nodes_4_lines_0.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_4_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "0a7122598b7728cd1389d7e349f6547c5afab544ed9e9ef1c69c94f0441cfeee",
+      "bytes": 29376,
+      "durationSeconds": 4.844,
+      "path": "assets/journey-voice/j_main_2_nodes_4_lines_1.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_4_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "3871c22379c2a83215086f7fd577b9ef58d0999091e16e3147833d40b66a5977",
+      "bytes": 22896,
+      "durationSeconds": 3.763,
+      "path": "assets/journey-voice/j_main_2_nodes_4_lines_2.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_4_after_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "b6d03206deaeb79c27d1105da55b6cb2b7d1553f0328dadb399e25ceaefda0a9",
+      "bytes": 40752,
+      "durationSeconds": 6.732,
+      "path": "assets/journey-voice/j_main_2_nodes_4_after_0.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_5_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "7d4d16713a0688ba90f755d8504bb39db0f2bb528738f0cdfb005faf10a41796",
+      "bytes": 32400,
+      "durationSeconds": 5.339,
+      "path": "assets/journey-voice/j_main_2_nodes_5_lines_0.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_5_lines_1",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "7d8924e31d64bb6b574b3067c753ccae7b670b079269fee66d4fded9330a1787",
+      "bytes": 37872,
+      "durationSeconds": 6.25,
+      "path": "assets/journey-voice/j_main_2_nodes_5_lines_1.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_5_lines_2",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "823305db9921f7f4d2f1eb8f32bed2129466b3446f49e484672a0a6826270801",
+      "bytes": 43632,
+      "durationSeconds": 7.214,
+      "path": "assets/journey-voice/j_main_2_nodes_5_lines_2.mp3"
+    },
+    {
+      "id": "j_main_2_nodes_5_lines_3",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "fcfbd7f2b01cd83d087f1d7c6dbcebf55afe37582b43d2660dcfbee8c6d7d32a",
+      "bytes": 38448,
+      "durationSeconds": 6.355,
+      "path": "assets/journey-voice/j_main_2_nodes_5_lines_3.mp3"
+    },
+    {
+      "id": "j_main_3_intro_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "a7d2c0de0abe81191756d62135b72711cfb9205133938065f01e95feb05eb3ba",
+      "bytes": 49248,
+      "durationSeconds": 8.145,
+      "path": "assets/journey-voice/j_main_3_intro_0.mp3"
+    },
+    {
+      "id": "j_main_3_outro_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "c9024980b5cdabde1ab82250496a4879302b55a622a0e6c4c6676f38fda20d34",
+      "bytes": 49536,
+      "durationSeconds": 8.19,
+      "path": "assets/journey-voice/j_main_3_outro_0.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_0_lines_0",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "6dfa62df7b68b3ac46211e0067cc0a9f5c9ef793ed07a312079ecafc8effe831",
+      "bytes": 41760,
+      "durationSeconds": 6.9,
+      "path": "assets/journey-voice/j_main_3_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_0_lines_1",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "ab6eabd99336b0d39d72571c7e8c3fc9808f9dd9239a0ebb0c78030dd1cb7cd3",
+      "bytes": 35856,
+      "durationSeconds": 5.937,
+      "path": "assets/journey-voice/j_main_3_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_0_lines_2",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "40230c0f9d26f7471a156f9853049d5f3e9518796129f16fbe75d9ceb6f9338c",
+      "bytes": 18576,
+      "durationSeconds": 3.097,
+      "path": "assets/journey-voice/j_main_3_nodes_0_lines_2.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_0_lines_3",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "b68814bcb7efdddf1bf1ca6963326c53b6623e0ab982d23d5bd89442ddd9f1ea",
+      "bytes": 24048,
+      "durationSeconds": 4.008,
+      "path": "assets/journey-voice/j_main_3_nodes_0_lines_3.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_1_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "b37402b5889a66b9ccfeb22d4cb32b1d8333b1a13c31649a891ce3a8614db921",
+      "bytes": 26352,
+      "durationSeconds": 4.373,
+      "path": "assets/journey-voice/j_main_3_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_1_lines_1",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "2394066d5ed352b6fdc9384c35f3516d3084bd7bc914b50267e4a05ed0e340c0",
+      "bytes": 35856,
+      "durationSeconds": 5.925,
+      "path": "assets/journey-voice/j_main_3_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_1_lines_2",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "061cd2127acb0d3061f6db96b379256ce178b72796ff58837c3b135b04ad412a",
+      "bytes": 43632,
+      "durationSeconds": 7.211,
+      "path": "assets/journey-voice/j_main_3_nodes_1_lines_2.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_1_after_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "f91bf786c1f8b0ffc75fe61e914f1ff6a88f9562bd4883735227b66f584f585c",
+      "bytes": 23040,
+      "durationSeconds": 3.826,
+      "path": "assets/journey-voice/j_main_3_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_2_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "316da4c2cc3f0e8192e09de87aa98ba1e89cfc422cac5ddca2eaf8a91be190df",
+      "bytes": 40176,
+      "durationSeconds": 6.628,
+      "path": "assets/journey-voice/j_main_3_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "3021ace635d5f7264d3d95889c44edf0b801e64b57cb8514ffaaa5d8709e21cd",
+      "bytes": 49968,
+      "durationSeconds": 8.255,
+      "path": "assets/journey-voice/j_main_3_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_2_lines_2",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "8c349adb33e0cec33d8eddf4672a7d5bdf0c4244ba8c18f2be2ef852bfe48438",
+      "bytes": 29808,
+      "durationSeconds": 4.963,
+      "path": "assets/journey-voice/j_main_3_nodes_2_lines_2.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_2_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "d7880dafe8418455ef2ba547569966c34a3783003b3ee29e566a5e55851eec95",
+      "bytes": 38016,
+      "durationSeconds": 6.263,
+      "path": "assets/journey-voice/j_main_3_nodes_2_after_0.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_3_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "251bbf9bb61b3ae37c6cf23397d5330baa5ab242000a9fc146f7d09b813ce08e",
+      "bytes": 45792,
+      "durationSeconds": 7.565,
+      "path": "assets/journey-voice/j_main_3_nodes_3_lines_0.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_3_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "87dce1d926e7ae107ef8c56fee7e479bb7b855a2aa1281e776cbafe27ee41837",
+      "bytes": 24624,
+      "durationSeconds": 4.099,
+      "path": "assets/journey-voice/j_main_3_nodes_3_lines_1.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_3_lines_2",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "dd3c8392d7ce7d487f454b6838e1da96d951596d5220dda1ab31078b655d337c",
+      "bytes": 37872,
+      "durationSeconds": 6.25,
+      "path": "assets/journey-voice/j_main_3_nodes_3_lines_2.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_3_choices_0_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "195fc1b7f09ed68bab853fe85557397ad6cbe1b9dbe8975968f0fe31d1af6af8",
+      "bytes": 50544,
+      "durationSeconds": 8.355,
+      "path": "assets/journey-voice/j_main_3_nodes_3_choices_0_result_0.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_3_choices_1_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "1ebbb57e2dd2becd9714063e3141c09624998d868405d2898bc95357b7afc83f",
+      "bytes": 50976,
+      "durationSeconds": 8.434,
+      "path": "assets/journey-voice/j_main_3_nodes_3_choices_1_result_0.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_4_lines_0",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "004c9b9b649a95dac7916d4a85134de68c28b6e95d6dd0d1180d40656d8b6da7",
+      "bytes": 31104,
+      "durationSeconds": 5.125,
+      "path": "assets/journey-voice/j_main_3_nodes_4_lines_0.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_4_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "2ce0add3d0908ca06f847aefdea9a79488d8797f03d38305bcb42208c004b4ac",
+      "bytes": 37296,
+      "durationSeconds": 6.146,
+      "path": "assets/journey-voice/j_main_3_nodes_4_lines_1.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_4_lines_2",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "50aeaad580f5bf9cc39cf79ad8c0b77126be5aba83aa0b5004266139d6154d14",
+      "bytes": 24048,
+      "durationSeconds": 3.995,
+      "path": "assets/journey-voice/j_main_3_nodes_4_lines_2.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_4_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "6f0c97f06841c2beada4eb49f20f3f9dc72bd8be62ee93b8ae44c087bcb2f3c3",
+      "bytes": 43632,
+      "durationSeconds": 7.274,
+      "path": "assets/journey-voice/j_main_3_nodes_4_after_0.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_5_lines_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "71cb583f5dcfc4ba02090fea47e8afbc3494b2968712ab1b9e8cdb3e37989b73",
+      "bytes": 62928,
+      "durationSeconds": 10.435,
+      "path": "assets/journey-voice/j_main_3_nodes_5_lines_0.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_5_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "09d65bda42188b380db29547fac6ea0c88f5538dca441883eaf8b95aafef2a65",
+      "bytes": 47664,
+      "durationSeconds": 7.891,
+      "path": "assets/journey-voice/j_main_3_nodes_5_lines_1.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_5_lines_2",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "4e8777721ac680dd68734280b011f9057b8578f18496fe8f52da90e273ea6331",
+      "bytes": 47376,
+      "durationSeconds": 7.826,
+      "path": "assets/journey-voice/j_main_3_nodes_5_lines_2.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_5_lines_3",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "33e92c6fe372439e65718aa4a33dfdcc05dba4dede55ff8582bd875a1cc8dda3",
+      "bytes": 42192,
+      "durationSeconds": 6.966,
+      "path": "assets/journey-voice/j_main_3_nodes_5_lines_3.mp3"
+    },
+    {
+      "id": "j_main_3_nodes_5_after_0",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "5d5f1617ed6024f4ceb216be12dae8c19c2f5f3b92dc24b1208803e1a78d5982",
+      "bytes": 74448,
+      "durationSeconds": 12.363,
+      "path": "assets/journey-voice/j_main_3_nodes_5_after_0.mp3"
+    },
+    {
+      "id": "j_main_4_intro_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "b59062ab0887d6583026b3edc0d0e56bc268ddf1aa566913bbc29e8a6b3d05eb",
+      "bytes": 52992,
+      "durationSeconds": 8.776,
+      "path": "assets/journey-voice/j_main_4_intro_0.mp3"
+    },
+    {
+      "id": "j_main_4_outro_0",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "6e426e71f04bd740ae5cdf5d0ae4c0fdfc74099f36e4f532cc55c1a313311e24",
+      "bytes": 43776,
+      "durationSeconds": 7.243,
+      "path": "assets/journey-voice/j_main_4_outro_0.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_0_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "d34f4791070ca49f2c58435665eb23c4308eaed30ba875032c76401314bb2a8e",
+      "bytes": 24336,
+      "durationSeconds": 4.034,
+      "path": "assets/journey-voice/j_main_4_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_0_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "c1b0eef5bd31d5a2233f1b1665e8651710759883e493494130bc62c796cd19da",
+      "bytes": 9936,
+      "durationSeconds": 1.652,
+      "path": "assets/journey-voice/j_main_4_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_0_lines_2",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "61cb47141b53eac69d8e8da41fddf20a2bdc0583193ad821f75bae1cecddc2b4",
+      "bytes": 28368,
+      "durationSeconds": 4.657,
+      "path": "assets/journey-voice/j_main_4_nodes_0_lines_2.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_0_lines_3",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "d613da592d8072ab3db435623729c21b5b72ff5891b1088c58122da41b1e3da5",
+      "bytes": 45648,
+      "durationSeconds": 7.539,
+      "path": "assets/journey-voice/j_main_4_nodes_0_lines_3.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_1_lines_0",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "e2aa4bcb1b190b080c5fca65ef8f916ca793eb702ed4ed112914f42c292f2adb",
+      "bytes": 36432,
+      "durationSeconds": 6.017,
+      "path": "assets/journey-voice/j_main_4_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "a987bee74c06b67ef572b6628c0567ac427f20f703d074be6a0e8160d6a19471",
+      "bytes": 13824,
+      "durationSeconds": 2.29,
+      "path": "assets/journey-voice/j_main_4_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_1_lines_2",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "7068c6eab8642c4c52547e1bda3011f36b371a05cee21678d9701ddc4276a0f1",
+      "bytes": 23328,
+      "durationSeconds": 3.886,
+      "path": "assets/journey-voice/j_main_4_nodes_1_lines_2.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_1_after_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "912f792ec76ca80795c06e691d0cc910150490c6c2c0e54d53741f417a350e11",
+      "bytes": 26208,
+      "durationSeconds": 4.347,
+      "path": "assets/journey-voice/j_main_4_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_2_lines_0",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "2a503df56ebd69984747fb16a0eb9b8c437aa0eb54896f0836857f0f6a5384ed",
+      "bytes": 42336,
+      "durationSeconds": 6.985,
+      "path": "assets/journey-voice/j_main_4_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "a86ab63d7293b9759b0e1916f85b700100c172cf04c4453c4808cdf3ec2f0003",
+      "bytes": 9792,
+      "durationSeconds": 1.626,
+      "path": "assets/journey-voice/j_main_4_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_2_lines_2",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "9b3f58288c7577a0824d99c19bbce148c78dcdcae9a2877926025cb0fbb1cd56",
+      "bytes": 47376,
+      "durationSeconds": 7.831,
+      "path": "assets/journey-voice/j_main_4_nodes_2_lines_2.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_2_lines_3",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "0ee027259d6a6ddbc24d4135af0ae79a673d836988881e10c53dbababec136d2",
+      "bytes": 19008,
+      "durationSeconds": 3.162,
+      "path": "assets/journey-voice/j_main_4_nodes_2_lines_3.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_2_choices_0_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "06eeebb96f39e702a9bf60c4331934e34ae0851a0499e26a6959942e26f11ef2",
+      "bytes": 43200,
+      "durationSeconds": 7.132,
+      "path": "assets/journey-voice/j_main_4_nodes_2_choices_0_result_0.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_2_choices_1_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "929a8f08c5605c5469286be136971330521fd516e02892e1386aa81dbbf502da",
+      "bytes": 42480,
+      "durationSeconds": 7.013,
+      "path": "assets/journey-voice/j_main_4_nodes_2_choices_1_result_0.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_3_lines_0",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "85b2be6fb5deba9997f96d3ba3a1a1c3c75cd7bb44a21bb250b4faa7d3460dce",
+      "bytes": 28656,
+      "durationSeconds": 4.756,
+      "path": "assets/journey-voice/j_main_4_nodes_3_lines_0.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_3_lines_1",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "5ded685cc30b4a0f998f3a6f5d1ec471c4c4984eae50bc1137e512d5a80c7938",
+      "bytes": 34560,
+      "durationSeconds": 5.74,
+      "path": "assets/journey-voice/j_main_4_nodes_3_lines_1.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_3_lines_2",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "8b580b2114c401ad6254504e070b1e68d2b849cca3811bfe861702b2fb2dbbff",
+      "bytes": 25776,
+      "durationSeconds": 4.282,
+      "path": "assets/journey-voice/j_main_4_nodes_3_lines_2.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_3_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "029bf3f1a82c13ca0574aa60a68e76547d6ab803ff729b7969088d9c6708d1a4",
+      "bytes": 49680,
+      "durationSeconds": 8.211,
+      "path": "assets/journey-voice/j_main_4_nodes_3_after_0.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_4_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "42f6028369647e71c33f24545b3cbc7a3ebb96cb2761cfe4bac10a88ca91c53e",
+      "bytes": 28944,
+      "durationSeconds": 4.753,
+      "path": "assets/journey-voice/j_main_4_nodes_4_lines_0.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_4_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "439eae841c64a29838fefb1e3124a4a0d96d8b32b170aa45cec7261f6e30b4d4",
+      "bytes": 39312,
+      "durationSeconds": 6.497,
+      "path": "assets/journey-voice/j_main_4_nodes_4_lines_1.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_4_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "0b5146526599a5e6bba45744c9c3a05ea66a7f13eae4ae159372f2a6537cb47f",
+      "bytes": 17280,
+      "durationSeconds": 2.862,
+      "path": "assets/journey-voice/j_main_4_nodes_4_lines_2.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_4_after_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "6a85e0e3a8f4aba6a6f724fdfdf27c0e108a28b389e1fd1464718af8757b1a5d",
+      "bytes": 51840,
+      "durationSeconds": 8.568,
+      "path": "assets/journey-voice/j_main_4_nodes_4_after_0.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_5_lines_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "dbf03164829def10c494904e26d9b75876ea1aa05b07854f91d70653edd162d6",
+      "bytes": 41328,
+      "durationSeconds": 6.821,
+      "path": "assets/journey-voice/j_main_4_nodes_5_lines_0.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_5_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "fca3bd51521a953e3fc2d246ad247a9013a800a9e4bdf7269143f6a789e6fb81",
+      "bytes": 13968,
+      "durationSeconds": 2.329,
+      "path": "assets/journey-voice/j_main_4_nodes_5_lines_1.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_5_lines_2",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "9ed5d60a83fcfe51fa414133c3b263468c8db7c25894e230e548fc82e4351b9d",
+      "bytes": 17136,
+      "durationSeconds": 2.844,
+      "path": "assets/journey-voice/j_main_4_nodes_5_lines_2.mp3"
+    },
+    {
+      "id": "j_main_4_nodes_5_lines_3",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "1b4d1bc3133ea0c42cb9edd87d75b5042692c4ea0eb33fbdc591c60afad3f5d0",
+      "bytes": 48960,
+      "durationSeconds": 8.105,
+      "path": "assets/journey-voice/j_main_4_nodes_5_lines_3.mp3"
+    },
+    {
+      "id": "j_main_5_intro_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "9c81501a72011ca280f75c74682cab5cde39d678041304d3763058ce04d0c524",
+      "bytes": 44640,
+      "durationSeconds": 7.368,
+      "path": "assets/journey-voice/j_main_5_intro_0.mp3"
+    },
+    {
+      "id": "j_main_5_outro_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "2d9e0d7dbb2a91a04cf521bb2b30a3ff9c0d6649f1b767affa2cae055da39903",
+      "bytes": 34560,
+      "durationSeconds": 5.693,
+      "path": "assets/journey-voice/j_main_5_outro_0.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_0_lines_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "efe50b515b169d136b1121fcb125d04d6e3e075e3e785b3eb7084ea0ee9269a5",
+      "bytes": 12096,
+      "durationSeconds": 1.993,
+      "path": "assets/journey-voice/j_main_5_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_0_lines_1",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "193b9fb0a4d724f8873960db2fcd0c9cf0379893f12c9eba56e58c50f7356280",
+      "bytes": 33120,
+      "durationSeconds": 5.466,
+      "path": "assets/journey-voice/j_main_5_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_0_lines_2",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "edd2abf7b39e32a6efe8e77d3058ad55b4f7baad6572818386fabbe595bb328f",
+      "bytes": 34992,
+      "durationSeconds": 5.761,
+      "path": "assets/journey-voice/j_main_5_nodes_0_lines_2.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_0_lines_3",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "d2acdcd53481874222aa4622a39c19aae379ab0513e8b6d6027083e8928fd6a6",
+      "bytes": 26064,
+      "durationSeconds": 4.289,
+      "path": "assets/journey-voice/j_main_5_nodes_0_lines_3.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_1_lines_0",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "45bcf928043150388e522ef1a874fcf7c7eb0a2c495738442dfc2ef246e30d92",
+      "bytes": 42192,
+      "durationSeconds": 6.987,
+      "path": "assets/journey-voice/j_main_5_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "e82bd2ba2136b73af588e8f0893d946928870458ea4b8064f54685c4e984b7df",
+      "bytes": 11520,
+      "durationSeconds": 1.899,
+      "path": "assets/journey-voice/j_main_5_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_1_lines_2",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "42d07971193cfe75e4653eced40b14df3d53b96d933521777fcf98f41cc27ac8",
+      "bytes": 36288,
+      "durationSeconds": 5.992,
+      "path": "assets/journey-voice/j_main_5_nodes_1_lines_2.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_1_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "2f52a864cc223beb4b64e87b501dabde04d11d66e5ba6440dc51e5bd9df40ac6",
+      "bytes": 45936,
+      "durationSeconds": 7.592,
+      "path": "assets/journey-voice/j_main_5_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_2_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "40591f6c139520df9f8656d5d5eb7beaad7e6a556f9cbe0aee154a305f344738",
+      "bytes": 30672,
+      "durationSeconds": 5.039,
+      "path": "assets/journey-voice/j_main_5_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_2_lines_1",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "4ef1b39c5ad96e5d1b916271bfc1c8f9cb5daf46ffaf816ec3e39b0d3028e487",
+      "bytes": 16848,
+      "durationSeconds": 2.797,
+      "path": "assets/journey-voice/j_main_5_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_2_lines_2",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "6c024e3eea044acd76490df1a20f945a65a89a3801747f348cfcd101e75be7ed",
+      "bytes": 20304,
+      "durationSeconds": 3.383,
+      "path": "assets/journey-voice/j_main_5_nodes_2_lines_2.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_2_lines_3",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "3e3fa61586c9fdbaeb71bf34df00c47f4561f9e27c5f34b18e9c8e26b8d3e415",
+      "bytes": 24480,
+      "durationSeconds": 4.06,
+      "path": "assets/journey-voice/j_main_5_nodes_2_lines_3.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_2_choices_0_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "cb15ce4d605f26fa9b5e001db1686985d12c1d21a7d2fc3574156a8706e6f3b0",
+      "bytes": 58176,
+      "durationSeconds": 9.632,
+      "path": "assets/journey-voice/j_main_5_nodes_2_choices_0_result_0.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_2_choices_1_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "ff3307001e9e02987eafe85ab43402656c200a61cfde7c8d8c279d6a54b47d32",
+      "bytes": 49104,
+      "durationSeconds": 8.118,
+      "path": "assets/journey-voice/j_main_5_nodes_2_choices_1_result_0.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_3_lines_0",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "dccdb99db578f6d0852cd0296705ebebb4664e3a773583d555ed5e39fec03107",
+      "bytes": 44064,
+      "durationSeconds": 7.279,
+      "path": "assets/journey-voice/j_main_5_nodes_3_lines_0.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_3_lines_1",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "351f162ad3c314ed3a914cfc6cc94b69b802bd1e35fb4e624c7428b8427d11eb",
+      "bytes": 24480,
+      "durationSeconds": 4.058,
+      "path": "assets/journey-voice/j_main_5_nodes_3_lines_1.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_3_lines_2",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "2b28e8feea99967083c199d7e36057d8ad5b8c5dfa6ef04d3c7c19e0cb6ca86e",
+      "bytes": 22896,
+      "durationSeconds": 3.8,
+      "path": "assets/journey-voice/j_main_5_nodes_3_lines_2.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_3_after_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "6c8f102e00158171c88ff24ba051579cba4eb642f3ed3fb76bc24371396c9a9d",
+      "bytes": 27792,
+      "durationSeconds": 4.579,
+      "path": "assets/journey-voice/j_main_5_nodes_3_after_0.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_4_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "523762cc3188f5b7c26e0713ada392c2732bd7d29f1e16a45a560c580cce8756",
+      "bytes": 42768,
+      "durationSeconds": 7.07,
+      "path": "assets/journey-voice/j_main_5_nodes_4_lines_0.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_4_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "109928b9a6618b41fb5a626517ac2cb27c631eccc584d9994186f82504951104",
+      "bytes": 32976,
+      "durationSeconds": 5.43,
+      "path": "assets/journey-voice/j_main_5_nodes_4_lines_1.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_4_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "cc88f281f7c78569cf5f2926b87e356ecc4811f8c9768c64d5764706432e3726",
+      "bytes": 31392,
+      "durationSeconds": 5.169,
+      "path": "assets/journey-voice/j_main_5_nodes_4_lines_2.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_4_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "fa56f8d479679912fc8aa5ba90e0d604b7c3a5adcc91bffa3780dcdcdb3666cc",
+      "bytes": 50400,
+      "durationSeconds": 8.342,
+      "path": "assets/journey-voice/j_main_5_nodes_4_after_0.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_5_lines_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "ec89960c6d1d6a8355e0ce39b39f17c81461371390b06e09b29062c121b3e3bb",
+      "bytes": 25920,
+      "durationSeconds": 4.303,
+      "path": "assets/journey-voice/j_main_5_nodes_5_lines_0.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_5_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "16cf214fd4c82734f87ab3405c0db23fd0653d8c0125fe4fd1faf38f4d776c3b",
+      "bytes": 20016,
+      "durationSeconds": 3.318,
+      "path": "assets/journey-voice/j_main_5_nodes_5_lines_1.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_5_lines_2",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "a4429a5ae9cbfafb4cd2b73c66c7fb09707c282e6635ce44c2b3b927dfbe7249",
+      "bytes": 33696,
+      "durationSeconds": 5.564,
+      "path": "assets/journey-voice/j_main_5_nodes_5_lines_2.mp3"
+    },
+    {
+      "id": "j_main_5_nodes_5_lines_3",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "0dadd85d327b3411883cda6775098baa87c739b039c5b4dae9db618d6931e30c",
+      "bytes": 43200,
+      "durationSeconds": 7.132,
+      "path": "assets/journey-voice/j_main_5_nodes_5_lines_3.mp3"
+    },
+    {
+      "id": "j_main_6_intro_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "098e5b16bb3108bcb01d48ccf482f901d3bba284fd56f609a4ce173737012cec",
+      "bytes": 46512,
+      "durationSeconds": 7.697,
+      "path": "assets/journey-voice/j_main_6_intro_0.mp3"
+    },
+    {
+      "id": "j_main_6_outro_0",
+      "speaker": "mother",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "fddb2fd2ad42056f97f3c4cafb05772c328e389641bcb87c434c6822805ebe47",
+      "bytes": 40464,
+      "durationSeconds": 6.671,
+      "path": "assets/journey-voice/j_main_6_outro_0.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_0_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "cb2feae821a6df6596e58cc03d4435c462b9e8c60312a1ecd074d0d258cf05a1",
+      "bytes": 39024,
+      "durationSeconds": 6.495,
+      "path": "assets/journey-voice/j_main_6_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_0_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "54aa415f30f08769e061c769d461ae146a25c461382a16bf36ffc51697c70a8a",
+      "bytes": 22896,
+      "durationSeconds": 3.8,
+      "path": "assets/journey-voice/j_main_6_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_0_lines_2",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "02de02d20dae54f26009ccf27c3366565ec7d27c104ead46e28a72eac9e6166c",
+      "bytes": 33696,
+      "durationSeconds": 5.547,
+      "path": "assets/journey-voice/j_main_6_nodes_0_lines_2.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_0_lines_3",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "4c94a6ebe318e622cb26e280f4431d1f4f0ea8495ad07d8feb8939efcfafe981",
+      "bytes": 39600,
+      "durationSeconds": 6.539,
+      "path": "assets/journey-voice/j_main_6_nodes_0_lines_3.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_1_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "d013383aaf41f9cede0e342adda4d2b5be3eb72849b805e150bf6c874f7e3a31",
+      "bytes": 17568,
+      "durationSeconds": 2.915,
+      "path": "assets/journey-voice/j_main_6_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_1_lines_1",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "88a9789de9494f72618e39ca8cdcf78ec355b429862407d1054745be13161f52",
+      "bytes": 30384,
+      "durationSeconds": 5.0,
+      "path": "assets/journey-voice/j_main_6_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_1_lines_2",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "0389e14aa9c49e234c7ae376e3ae4943195f593855ec8b2eee6f484e90179a24",
+      "bytes": 45072,
+      "durationSeconds": 7.447,
+      "path": "assets/journey-voice/j_main_6_nodes_1_lines_2.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_1_after_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "199ed9b669e478c9480997fe927211d3e76b986be899f216691dda4456185105",
+      "bytes": 38160,
+      "durationSeconds": 6.289,
+      "path": "assets/journey-voice/j_main_6_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_2_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "b4aa02df4a0973db447549052cfea1299143bd9e4df872eb22526a2676de7df7",
+      "bytes": 32976,
+      "durationSeconds": 5.493,
+      "path": "assets/journey-voice/j_main_6_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "c73ef0a456149fb1ee9a784c63bbb9071347a121a490c754e6842a2db69edd64",
+      "bytes": 24912,
+      "durationSeconds": 4.152,
+      "path": "assets/journey-voice/j_main_6_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_2_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "40e05e72c6f40b13b2ae24e7bc8f0a8ea73a1a1f4c39f42076e360c26538c090",
+      "bytes": 30240,
+      "durationSeconds": 4.987,
+      "path": "assets/journey-voice/j_main_6_nodes_2_lines_2.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_2_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "587188666776f2fbb966a3bbf9f8e7dbbfaf2a205e63e334caa4ea31daa2adbe",
+      "bytes": 41040,
+      "durationSeconds": 6.789,
+      "path": "assets/journey-voice/j_main_6_nodes_2_after_0.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_3_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "84f2b3d9d45a9c3325abe3c3d52bd3d53e402560e866e1ad7f9ba99804c2875f",
+      "bytes": 33984,
+      "durationSeconds": 5.599,
+      "path": "assets/journey-voice/j_main_6_nodes_3_lines_0.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_3_lines_1",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "6b4ead55ef985e28a96541a272949fee4f2610b65b3c9055011bc1082c6b25d1",
+      "bytes": 51552,
+      "durationSeconds": 8.529,
+      "path": "assets/journey-voice/j_main_6_nodes_3_lines_1.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_3_lines_2",
+      "speaker": "mother",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "f027edf12b9d6782b7a6c4554927992d17477862913b40752e2cf1b71824caac",
+      "bytes": 40032,
+      "durationSeconds": 6.617,
+      "path": "assets/journey-voice/j_main_6_nodes_3_lines_2.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_3_choices_0_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "82cf78d30ac8df92801e03ee159a255c016e38c1c69cafb1f146bdbfee3647a0",
+      "bytes": 38736,
+      "durationSeconds": 6.395,
+      "path": "assets/journey-voice/j_main_6_nodes_3_choices_0_result_0.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_3_choices_1_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "fad563893c8196efef5dec817d07bf9ed9d81e55e8cc711935bc67b29db856bf",
+      "bytes": 41904,
+      "durationSeconds": 6.934,
+      "path": "assets/journey-voice/j_main_6_nodes_3_choices_1_result_0.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_4_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "66d45b996d23a4362d6fcfffd83b01d716fcfebeaaae0a79e4ea10d24332af49",
+      "bytes": 32544,
+      "durationSeconds": 5.365,
+      "path": "assets/journey-voice/j_main_6_nodes_4_lines_0.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_4_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "8b8c62ea063f10a0867abcac8d9066c05b0ecbc1cc7a2a1e68a22640cf12c51d",
+      "bytes": 30240,
+      "durationSeconds": 4.974,
+      "path": "assets/journey-voice/j_main_6_nodes_4_lines_1.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_4_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "d3ddf91bc57d1c519e343702fed5eba0652e23a54efd618688138010745dd955",
+      "bytes": 35136,
+      "durationSeconds": 5.794,
+      "path": "assets/journey-voice/j_main_6_nodes_4_lines_2.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_4_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "c8cac7212fba0972cec3fef11fe18578414f0cf25b5692f0ddab9f7067b85d79",
+      "bytes": 40032,
+      "durationSeconds": 6.618,
+      "path": "assets/journey-voice/j_main_6_nodes_4_after_0.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_5_lines_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "b1bd25853720c9338714ffe4d408ace7c77a825302362a5f1143eb6b58ff1408",
+      "bytes": 47376,
+      "durationSeconds": 7.829,
+      "path": "assets/journey-voice/j_main_6_nodes_5_lines_0.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_5_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "bde3dcdf6af8e9139eb5d22ea33cabada44400f64d0524e1d9099b1a10e009aa",
+      "bytes": 29808,
+      "durationSeconds": 4.909,
+      "path": "assets/journey-voice/j_main_6_nodes_5_lines_1.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_5_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "e61934e4df5f07249e9b9cb71f8a3f7e16b2cee003edc80ce2f75e0e3406b9cb",
+      "bytes": 22896,
+      "durationSeconds": 3.75,
+      "path": "assets/journey-voice/j_main_6_nodes_5_lines_2.mp3"
+    },
+    {
+      "id": "j_main_6_nodes_5_after_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "88aae84e3116479d06c88aaff116fdff50839565cae09844aec22732c2e296f7",
+      "bytes": 37008,
+      "durationSeconds": 6.107,
+      "path": "assets/journey-voice/j_main_6_nodes_5_after_0.mp3"
+    },
+    {
+      "id": "j_main_7_intro_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "e899451dad66582fcefed1ddfabde4b092aca7d48587659affab512aae89f825",
+      "bytes": 52704,
+      "durationSeconds": 8.724,
+      "path": "assets/journey-voice/j_main_7_intro_0.mp3"
+    },
+    {
+      "id": "j_main_7_outro_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "535f3add5214ddc54e7bcb8e8b2c2802dab398017abb7a21e443b5cd081faf6a",
+      "bytes": 48960,
+      "durationSeconds": 8.092,
+      "path": "assets/journey-voice/j_main_7_outro_0.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_0_lines_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "399255e2b8b6578207d195f32a81d435ec605aa7b0e3183c5b37418fdbaea322",
+      "bytes": 39456,
+      "durationSeconds": 6.508,
+      "path": "assets/journey-voice/j_main_7_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_0_lines_1",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "d0626e1cc356606ce8a56727267c462b2e34b4c477b6c41bc20e32df1c0d07f1",
+      "bytes": 31680,
+      "durationSeconds": 5.221,
+      "path": "assets/journey-voice/j_main_7_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_0_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "78a15fed8429df77def18b8b6c0dca2266cc483a76139d0af70c5e6059b8423a",
+      "bytes": 40176,
+      "durationSeconds": 6.628,
+      "path": "assets/journey-voice/j_main_7_nodes_0_lines_2.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_0_lines_3",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "2557488279697e4c2ea6a4b74fd90e4c9ef76155335539073624110cae39cfd7",
+      "bytes": 21888,
+      "durationSeconds": 3.594,
+      "path": "assets/journey-voice/j_main_7_nodes_0_lines_3.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_1_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "e847f67d5e201f8f7f7d31cd15765a79d41bb03908aa0d41af9c7a09ff48b87e",
+      "bytes": 34560,
+      "durationSeconds": 5.703,
+      "path": "assets/journey-voice/j_main_7_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "e4c393d9df06ba6b43269d1337b3114e35951130b6097be1b9a4e5c71267a547",
+      "bytes": 34848,
+      "durationSeconds": 5.742,
+      "path": "assets/journey-voice/j_main_7_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_1_lines_2",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "70d9780b3306853c2574feba80b2d6d06573c7c6ad3d174267462fb50a46edbc",
+      "bytes": 39600,
+      "durationSeconds": 6.526,
+      "path": "assets/journey-voice/j_main_7_nodes_1_lines_2.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_1_after_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "80924c693c70c5b63be750aa8afdba2de9374780a4c44934f6e98e587d02dfe8",
+      "bytes": 41472,
+      "durationSeconds": 6.849,
+      "path": "assets/journey-voice/j_main_7_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_2_lines_0",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "5a03f5874f26c868efe3241fb04dfaa1c3054a106a1a76066466789210d7022c",
+      "bytes": 23184,
+      "durationSeconds": 3.861,
+      "path": "assets/journey-voice/j_main_7_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_2_lines_1",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "f289c49fcfe3ceb62cba571d9810e437a24b0f04eadb108baf17ce5c2bdc17d1",
+      "bytes": 33696,
+      "durationSeconds": 5.543,
+      "path": "assets/journey-voice/j_main_7_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_2_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "3aab72238ea3175b8c3f0e056a5e786ee921aa89d646e7cbddca82e4e6c68a91",
+      "bytes": 43200,
+      "durationSeconds": 7.135,
+      "path": "assets/journey-voice/j_main_7_nodes_2_lines_2.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_2_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "95e9835a6d190efe75dc144d05af780db791e54d2856939213b08264fcf1d228",
+      "bytes": 44784,
+      "durationSeconds": 7.395,
+      "path": "assets/journey-voice/j_main_7_nodes_2_after_0.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_3_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "232427b9ce73abc91015c95f85b4e8f1710ca11ae9c67932678331767018f12b",
+      "bytes": 27936,
+      "durationSeconds": 4.633,
+      "path": "assets/journey-voice/j_main_7_nodes_3_lines_0.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_3_lines_1",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "dca43d85337b6daf425a65cbad34f342d5beab46219553bafba9df0efb6363c8",
+      "bytes": 14256,
+      "durationSeconds": 2.368,
+      "path": "assets/journey-voice/j_main_7_nodes_3_lines_1.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_3_lines_2",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "4a9b3d0a8e636b8ef24188f46b42f9e0fac0b7d669154cd4e61b3453ef81594c",
+      "bytes": 11808,
+      "durationSeconds": 1.951,
+      "path": "assets/journey-voice/j_main_7_nodes_3_lines_2.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_3_lines_3",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "324054b15d9baa9a2337ca18c7b97a0ffdaab85faaba02047affb3927f2d4f46",
+      "bytes": 37728,
+      "durationSeconds": 6.224,
+      "path": "assets/journey-voice/j_main_7_nodes_3_lines_3.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_3_after_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "289efc169be527ca532d4fcc1bfcf6a97aa25964feaf0fc332a84a46bd0b6893",
+      "bytes": 28944,
+      "durationSeconds": 4.766,
+      "path": "assets/journey-voice/j_main_7_nodes_3_after_0.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_4_lines_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "9e20230529234f7e85398f1bed44165b9fec6567016c94f977fc43199e70debc",
+      "bytes": 50976,
+      "durationSeconds": 8.434,
+      "path": "assets/journey-voice/j_main_7_nodes_4_lines_0.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_4_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "022cf6d7544bbc83872b417f33105cf862eaa5c9166f07eb4f9d9a1367b165be",
+      "bytes": 39024,
+      "durationSeconds": 6.432,
+      "path": "assets/journey-voice/j_main_7_nodes_4_lines_1.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_4_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "8d5f2b7895242937dae4695b0fb6d915419e248b3f80efd91dacab5559e40d67",
+      "bytes": 27360,
+      "durationSeconds": 4.505,
+      "path": "assets/journey-voice/j_main_7_nodes_4_lines_2.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_4_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "001f95cdfea5ae37348cc59e8f1312978d1f7d49f7a69fc58f1473a6d2111e74",
+      "bytes": 46656,
+      "durationSeconds": 7.724,
+      "path": "assets/journey-voice/j_main_7_nodes_4_after_0.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_5_lines_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "425fd0eb26ac2f121355090b52847b0a8e5b58c9d80b8e2d9d0cde72b27f02fa",
+      "bytes": 27936,
+      "durationSeconds": 4.656,
+      "path": "assets/journey-voice/j_main_7_nodes_5_lines_0.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_5_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "cadefeea756c2f3a18137aa291ca6c1f6301afd5047e21e9a96110db5b1069ac",
+      "bytes": 35424,
+      "durationSeconds": 5.846,
+      "path": "assets/journey-voice/j_main_7_nodes_5_lines_1.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_5_lines_2",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "cccc7d2d5db73be0185eb2e44c437e162a6259b43fa8b82cf1143ec36da703b7",
+      "bytes": 30672,
+      "durationSeconds": 5.039,
+      "path": "assets/journey-voice/j_main_7_nodes_5_lines_2.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_5_lines_3",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "a3197616aafd4ba6bcea7e128f114e54387aee2f1a6c8fe17effe6cb8c490a7a",
+      "bytes": 27936,
+      "durationSeconds": 4.571,
+      "path": "assets/journey-voice/j_main_7_nodes_5_lines_3.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_5_choices_0_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "3100e5b5abac499b1ecc86d1c0362909056dc1808e755fae54d5e596dfd1cc6e",
+      "bytes": 51552,
+      "durationSeconds": 8.526,
+      "path": "assets/journey-voice/j_main_7_nodes_5_choices_0_result_0.mp3"
+    },
+    {
+      "id": "j_main_7_nodes_5_choices_1_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "509f33e955eeffb3351674f262a97a6d39797e6277530948eee3ef1ef2b80b21",
+      "bytes": 49824,
+      "durationSeconds": 8.237,
+      "path": "assets/journey-voice/j_main_7_nodes_5_choices_1_result_0.mp3"
+    },
+    {
+      "id": "j_side_0_nodes_0_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "21530cf15164af232b0c0db48a915dc7ad3742a4ac854d07be30e721275e1a87",
+      "bytes": 40752,
+      "durationSeconds": 6.719,
+      "path": "assets/journey-voice/j_side_0_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_side_0_nodes_0_lines_1",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "1688bfdbcd7154ddfcacd2ce52701501b021a13bce4d7529f9aa29bc2cc455ab",
+      "bytes": 32688,
+      "durationSeconds": 5.38,
+      "path": "assets/journey-voice/j_side_0_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_side_0_nodes_1_lines_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "900d049808129f28b09e3878c444f5fbd3263eb7927fba34a703da55f4697217",
+      "bytes": 38304,
+      "durationSeconds": 6.332,
+      "path": "assets/journey-voice/j_side_0_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_side_0_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "9e008c78e0ca20f7f33701567f5819250e2ca810c62d5a9230955b38cf67620f",
+      "bytes": 25632,
+      "durationSeconds": 4.219,
+      "path": "assets/journey-voice/j_side_0_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_side_0_nodes_1_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "9eecf3b9db69444cf13cdb4b4e91d094622afe00e1429ffba76fcfec9106f97c",
+      "bytes": 42480,
+      "durationSeconds": 7.026,
+      "path": "assets/journey-voice/j_side_0_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_side_0_nodes_2_lines_0",
+      "speaker": "father",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "302b9c62c4a4a9b0d0845d837f350d995c108d7c5821b9551d3d05a5a462f1a1",
+      "bytes": 20592,
+      "durationSeconds": 3.37,
+      "path": "assets/journey-voice/j_side_0_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_side_0_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "e38e00b93a708b288efdc403bab705d2f1b52621bf15552a801af7b389a3125c",
+      "bytes": 42480,
+      "durationSeconds": 7.018,
+      "path": "assets/journey-voice/j_side_0_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_side_0_nodes_2_choices_0_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "d9648852cb9cd91d1e051945f5b98e41385d62e06926eac37e8b5d34237b1a13",
+      "bytes": 36288,
+      "durationSeconds": 5.987,
+      "path": "assets/journey-voice/j_side_0_nodes_2_choices_0_result_0.mp3"
+    },
+    {
+      "id": "j_side_0_nodes_2_choices_1_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "5995369a35548f5f4904cef005472ff6b80555cbced0322b6a34f59de03f7786",
+      "bytes": 39456,
+      "durationSeconds": 6.526,
+      "path": "assets/journey-voice/j_side_0_nodes_2_choices_1_result_0.mp3"
+    },
+    {
+      "id": "j_side_1_nodes_0_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "3aaacb5aa8c86585b6a0e6c368661efe5cd00f6a663fd6146abb22ce14ee0bac",
+      "bytes": 27072,
+      "durationSeconds": 4.503,
+      "path": "assets/journey-voice/j_side_1_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_side_1_nodes_0_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "943be66729b21a26877c84788936ea9c9b1fb6cc63251d03551e1dee3eefc33a",
+      "bytes": 31824,
+      "durationSeconds": 5.284,
+      "path": "assets/journey-voice/j_side_1_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_side_1_nodes_1_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "843949ef33b81be6d1042d826ee60a92e4c0df324cf0d37c030389d67e15aa0e",
+      "bytes": 58032,
+      "durationSeconds": 9.609,
+      "path": "assets/journey-voice/j_side_1_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_side_1_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "81cb75daf063cf3a869488f79ad91c37a559758aeaf1204890975b58fa7c5e1f",
+      "bytes": 35712,
+      "durationSeconds": 5.898,
+      "path": "assets/journey-voice/j_side_1_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_side_1_nodes_2_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "732aa20293a7e28f6309c028f38becc6ea7a97c7d2920b10d0ac5c07c958bb24",
+      "bytes": 21456,
+      "durationSeconds": 3.566,
+      "path": "assets/journey-voice/j_side_1_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_side_1_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "119803e84097a306d6225a6857cb187be92c5579967c9509f3146d71d6f37045",
+      "bytes": 35136,
+      "durationSeconds": 5.794,
+      "path": "assets/journey-voice/j_side_1_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_side_1_nodes_2_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "458998b982236da7ef6275fb648dcf61782f1defd08b158bc5060748c3b21b84",
+      "bytes": 42480,
+      "durationSeconds": 7.013,
+      "path": "assets/journey-voice/j_side_1_nodes_2_after_0.mp3"
+    },
+    {
+      "id": "j_side_2_nodes_0_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "44bf6b9add12a1487860eb9bd346737f1ed16a7f527f5e4e6246a002df49a1c7",
+      "bytes": 31536,
+      "durationSeconds": 5.195,
+      "path": "assets/journey-voice/j_side_2_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_side_2_nodes_0_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "30992ac8ece9d90b0fbe2a5254a16594c51cd948abb8d3d1431f3d2cb4fca832",
+      "bytes": 21312,
+      "durationSeconds": 3.54,
+      "path": "assets/journey-voice/j_side_2_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_side_2_nodes_1_lines_0",
+      "speaker": "mother",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "989d7d3a948239d2b1bb48364cb6a869512f8e93ed29ada13e304f6efb798cff",
+      "bytes": 31824,
+      "durationSeconds": 5.295,
+      "path": "assets/journey-voice/j_side_2_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_side_2_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "d2f792d0ccc6bf5ac27b8f264ac4c3898334e67d0a65a53948aae86543ab3f02",
+      "bytes": 31248,
+      "durationSeconds": 5.143,
+      "path": "assets/journey-voice/j_side_2_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_side_2_nodes_2_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "37d0b2f66df9e939eadec667c5e5a233f7c7b461bff09be583af4bea0397484a",
+      "bytes": 19872,
+      "durationSeconds": 3.305,
+      "path": "assets/journey-voice/j_side_2_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_side_2_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "909feb793643ce67ec50e9bb4b6a46a3de26f9314b0a8a6aa4f36fbdfbbd0462",
+      "bytes": 36288,
+      "durationSeconds": 5.99,
+      "path": "assets/journey-voice/j_side_2_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_side_2_nodes_2_choices_0_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "8fc8ce4de25e7d1f03eb413f8f9e0d7c0ecb5e5543e7c145f95234eee051cb14",
+      "bytes": 37584,
+      "durationSeconds": 6.261,
+      "path": "assets/journey-voice/j_side_2_nodes_2_choices_0_result_0.mp3"
+    },
+    {
+      "id": "j_side_2_nodes_2_choices_1_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "e3b6195c8eb3b7b8010f5d9ac51e9c26000ee21613e1ea3adbef6be92021aff6",
+      "bytes": 43920,
+      "durationSeconds": 7.25,
+      "path": "assets/journey-voice/j_side_2_nodes_2_choices_1_result_0.mp3"
+    },
+    {
+      "id": "j_side_3_nodes_0_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "a75628917adddb434053f102cca542ea0bcfcbd2ed11bab874d828d44b67600b",
+      "bytes": 18432,
+      "durationSeconds": 3.058,
+      "path": "assets/journey-voice/j_side_3_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_side_3_nodes_0_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "d2df6007a99d31674fc4a6dae3e34c21373406f1bac0cd49bb61a394aaaa2d54",
+      "bytes": 34992,
+      "durationSeconds": 5.755,
+      "path": "assets/journey-voice/j_side_3_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_side_3_nodes_1_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "43c268564c9a2b5186ff43e575bbf223f53512c7e1d699d002aea520bbe606ad",
+      "bytes": 29664,
+      "durationSeconds": 4.896,
+      "path": "assets/journey-voice/j_side_3_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_side_3_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "6f6b39558fbc97591387fb3853753a8ccbae2a5847e6dfcf476a9500a4ebd2b1",
+      "bytes": 18576,
+      "durationSeconds": 3.084,
+      "path": "assets/journey-voice/j_side_3_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_side_3_nodes_1_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "9b4091090e4f6ee531235e2184f82f1b429bbd02141ea0c7473c269baf67f92b",
+      "bytes": 30960,
+      "durationSeconds": 5.142,
+      "path": "assets/journey-voice/j_side_3_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_side_3_nodes_2_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "ba8b7253fc4dbe180ff35da21cb53afeb4b26f163fa4162947d6556fbd090c6b",
+      "bytes": 17424,
+      "durationSeconds": 2.889,
+      "path": "assets/journey-voice/j_side_3_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_side_3_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "887de54038f2de1c00eba4fe7ead0034e6ee49826ccd686710df8d43ef5a8a8e",
+      "bytes": 37440,
+      "durationSeconds": 6.172,
+      "path": "assets/journey-voice/j_side_3_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_side_3_nodes_2_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "d2c4e6ee8e9af8a8cc0518607beb07302cb0067f4b73e6510c44c8e5adeddad6",
+      "bytes": 36000,
+      "durationSeconds": 5.984,
+      "path": "assets/journey-voice/j_side_3_nodes_2_after_0.mp3"
+    },
+    {
+      "id": "j_side_4_nodes_0_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "04152bd07f3608b83b8987ee2fa44cd81c95178e56ca58f5393cbe67402a2f7d",
+      "bytes": 38304,
+      "durationSeconds": 6.315,
+      "path": "assets/journey-voice/j_side_4_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_side_4_nodes_0_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "df1c143f46e91fdf9544f8655baf2cfed91bfde1d89456ab470a6ac3ac39ac5d",
+      "bytes": 33408,
+      "durationSeconds": 5.558,
+      "path": "assets/journey-voice/j_side_4_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_side_4_nodes_1_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "a3770993e2b80a5fdc3e94e3cd73bf1f5ec491849f9258815017a8fec4d395fc",
+      "bytes": 27504,
+      "durationSeconds": 4.581,
+      "path": "assets/journey-voice/j_side_4_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_side_4_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "23ccb779fa5448e0ac97af8fca9c33f2fc443ae609290d81796424a9cbd3194a",
+      "bytes": 23328,
+      "durationSeconds": 3.815,
+      "path": "assets/journey-voice/j_side_4_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_side_4_nodes_1_after_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "6a639435c01a64b6fc138f7a6738ffa78c605a4c3a6286c8886a81272b1a71f9",
+      "bytes": 38016,
+      "durationSeconds": 6.301,
+      "path": "assets/journey-voice/j_side_4_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_side_4_nodes_2_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "6b55a6c98771eca2d10c9e1d6c3d6735327678bcb6bfbd85f035f095beadf9ed",
+      "bytes": 20592,
+      "durationSeconds": 3.409,
+      "path": "assets/journey-voice/j_side_4_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_side_4_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "e3c4affbcd5cfe9f724121910316bf25874aefcc426ad0845619082baf757110",
+      "bytes": 19440,
+      "durationSeconds": 3.24,
+      "path": "assets/journey-voice/j_side_4_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_side_4_nodes_2_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "37c423c81449ac002fd90064dfe604140eb1bb5751adcc59aa4b634ef7671bb5",
+      "bytes": 45648,
+      "durationSeconds": 7.539,
+      "path": "assets/journey-voice/j_side_4_nodes_2_after_0.mp3"
+    },
+    {
+      "id": "j_side_5_nodes_0_lines_0",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "9a5943fbcdb050f8cc987a69612f3bf7f0ef858248fbb79b97946be00578a364",
+      "bytes": 37296,
+      "durationSeconds": 6.237,
+      "path": "assets/journey-voice/j_side_5_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_side_5_nodes_0_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "bcf85b0c122895acd2963ca6b872d6469375a07ab4993b07e5ceb891cb57e867",
+      "bytes": 31968,
+      "durationSeconds": 5.31,
+      "path": "assets/journey-voice/j_side_5_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_side_5_nodes_1_lines_0",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "cf01cab3009343c79c8e7c4e56a6877fd6b0ccc56d0d1d778081844135fc4593",
+      "bytes": 29808,
+      "durationSeconds": 4.95,
+      "path": "assets/journey-voice/j_side_5_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_side_5_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "baa6f7f38c4523313fc58f5bba680331ae938c602e8b6896ba24250198111677",
+      "bytes": 22032,
+      "durationSeconds": 3.67,
+      "path": "assets/journey-voice/j_side_5_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_side_5_nodes_1_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "fb7a347c28fa093a087c98d24b916e12d124c74e34c7548a191a3469c00f2fb9",
+      "bytes": 39456,
+      "durationSeconds": 6.513,
+      "path": "assets/journey-voice/j_side_5_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_side_5_nodes_2_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "a8622b0013eb68c1acc0e1f0aa870440ec5b1d0183e08c621dd906ed03d11a8b",
+      "bytes": 25200,
+      "durationSeconds": 4.191,
+      "path": "assets/journey-voice/j_side_5_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_side_5_nodes_2_lines_1",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "4147f639760b03ae8897d76ec7a7987c27ccd9efa05ce80c1ed3b5abe8887cc3",
+      "bytes": 27504,
+      "durationSeconds": 4.525,
+      "path": "assets/journey-voice/j_side_5_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_side_5_nodes_2_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "b485a6b36a971c9abc00a5d0acc8d3cf1724e8f127d02441103994cd81ac0ada",
+      "bytes": 40320,
+      "durationSeconds": 6.658,
+      "path": "assets/journey-voice/j_side_5_nodes_2_after_0.mp3"
+    },
+    {
+      "id": "j_side_6_nodes_0_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "d259f4094a10a65655698c64c535a14506ad40bda9ed475294cc6f9d6ef070ca",
+      "bytes": 34560,
+      "durationSeconds": 5.74,
+      "path": "assets/journey-voice/j_side_6_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_side_6_nodes_0_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "9d5ad77ebff6a66317eabe0b4a48d5d7adbee8eadbff6aa8cd2eb1588558ec27",
+      "bytes": 13104,
+      "durationSeconds": 2.172,
+      "path": "assets/journey-voice/j_side_6_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_side_6_nodes_0_lines_2",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "55799e35b5d7d7a8c9546266a7775f90be53dfd6ff93a2d164e611ff4909d9de",
+      "bytes": 26352,
+      "durationSeconds": 4.323,
+      "path": "assets/journey-voice/j_side_6_nodes_0_lines_2.mp3"
+    },
+    {
+      "id": "j_side_6_nodes_1_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "501e2bf06449e9aded669e7173607bb7c472c16cd6ebcead04a542925c0e3686",
+      "bytes": 31968,
+      "durationSeconds": 5.31,
+      "path": "assets/journey-voice/j_side_6_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_side_6_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "24a61c9b4fbe0a6b19754b6149a5cd35a714593a539a731e323a0109b0799c6c",
+      "bytes": 31968,
+      "durationSeconds": 5.26,
+      "path": "assets/journey-voice/j_side_6_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_side_6_nodes_2_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "50b2a5f136cf444d8e5f2572cc13bb6509bfcb872812442dd4263d41c5226290",
+      "bytes": 13104,
+      "durationSeconds": 2.185,
+      "path": "assets/journey-voice/j_side_6_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_side_6_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "b7bd502b1103043cc0abb3a2786ca63c5a618ef0d1b3f3ec9a005fd330628c8b",
+      "bytes": 30384,
+      "durationSeconds": 5.0,
+      "path": "assets/journey-voice/j_side_6_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_side_6_nodes_2_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "6578e6ccbbf7d98ff9cb086590cd27c08aba1572620a6c7f11a1ef3b22c01363",
+      "bytes": 47952,
+      "durationSeconds": 7.934,
+      "path": "assets/journey-voice/j_side_6_nodes_2_after_0.mp3"
+    },
+    {
+      "id": "j_side_7_nodes_0_lines_0",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "df458b74e00128333c179b2a4b454bbcb8e8a811e6cd0a264d078801edfb427f",
+      "bytes": 36720,
+      "durationSeconds": 6.066,
+      "path": "assets/journey-voice/j_side_7_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_side_7_nodes_0_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "18962da7626238c2a1874ff2efbd8598ff7dd0aee17f3c21eb85401061b5459d",
+      "bytes": 29376,
+      "durationSeconds": 4.831,
+      "path": "assets/journey-voice/j_side_7_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_side_7_nodes_1_lines_0",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "153344f8a090cb974fe3626b152a2de7fb7d22af650cd5d6513593cbd1e57573",
+      "bytes": 28944,
+      "durationSeconds": 4.805,
+      "path": "assets/journey-voice/j_side_7_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_side_7_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "d2f6286fe9c214bcf4a990478b3b86971e34e5715a5859b7a59a7783f092a9e0",
+      "bytes": 28944,
+      "durationSeconds": 4.753,
+      "path": "assets/journey-voice/j_side_7_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_side_7_nodes_1_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "2db4db1f6a15a4257e152b5e4555647de568b5fce345722f0e55a1c348ececba",
+      "bytes": 48096,
+      "durationSeconds": 7.947,
+      "path": "assets/journey-voice/j_side_7_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_side_7_nodes_2_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "9e2ef118e7c44cc3b4906c70ee68060c3951ce1a01c5929142d0b420992ef0a4",
+      "bytes": 12960,
+      "durationSeconds": 2.159,
+      "path": "assets/journey-voice/j_side_7_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_side_7_nodes_2_lines_1",
+      "speaker": "brother",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "d646b7e0cb9abb1eb472b112ac24e12a2df31297421282273038a3bd09c32df0",
+      "bytes": 33408,
+      "durationSeconds": 5.502,
+      "path": "assets/journey-voice/j_side_7_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_side_7_nodes_2_choices_0_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "2a6b632c8092d45a9fb537d098f0ea6e90fcf93dd2d0b5f722358a811cb7d94c",
+      "bytes": 48960,
+      "durationSeconds": 8.092,
+      "path": "assets/journey-voice/j_side_7_nodes_2_choices_0_result_0.mp3"
+    },
+    {
+      "id": "j_side_7_nodes_2_choices_1_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "d061e67bd96ba85d911a6c7f542bd9b971cb5d53dbe0bb2cb1d72dc1e9519ba2",
+      "bytes": 49104,
+      "durationSeconds": 8.132,
+      "path": "assets/journey-voice/j_side_7_nodes_2_choices_1_result_0.mp3"
+    },
+    {
+      "id": "j_side_8_nodes_0_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "ce22ac35b67ade8527c9764a1ad506135aa8a119bb06d21e34929fbcaf422cdb",
+      "bytes": 42912,
+      "durationSeconds": 7.096,
+      "path": "assets/journey-voice/j_side_8_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_side_8_nodes_0_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "77545ee9113a391968974594248a9e71788f9ce185453023b84b8b39048a0691",
+      "bytes": 29520,
+      "durationSeconds": 4.907,
+      "path": "assets/journey-voice/j_side_8_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_side_8_nodes_1_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "d5cd7bef8d9710508583b9a60b0f00e71bbe3498e6a4b7450d3d35ed7f1d363d",
+      "bytes": 39168,
+      "durationSeconds": 6.508,
+      "path": "assets/journey-voice/j_side_8_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_side_8_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "6c1a3f711f1b61860fe20131e406e3821448a77ce6a80e8961d48d1491992f56",
+      "bytes": 32832,
+      "durationSeconds": 5.417,
+      "path": "assets/journey-voice/j_side_8_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_side_8_nodes_2_lines_0",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "a7a4b2b0c7f192907b55a44535ca92085e02312c4ae0507c0e2f9d5984cb6934",
+      "bytes": 42336,
+      "durationSeconds": 7.005,
+      "path": "assets/journey-voice/j_side_8_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_side_8_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "06c957d14770a3225e13de995556a5f603794fe86ee27b2ca2d9f1369ea778ae",
+      "bytes": 22752,
+      "durationSeconds": 3.787,
+      "path": "assets/journey-voice/j_side_8_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_side_8_nodes_2_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "ca849ab796c8c83052ef44a323357b554d8e83f6074126e7cc99328720a7046a",
+      "bytes": 49104,
+      "durationSeconds": 8.118,
+      "path": "assets/journey-voice/j_side_8_nodes_2_after_0.mp3"
+    },
+    {
+      "id": "j_side_9_nodes_0_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "7c8a4a7dadc6bb6c6f3f9805acb37f9ac62df407c7cdb110fc61df9a084f1565",
+      "bytes": 26496,
+      "durationSeconds": 4.349,
+      "path": "assets/journey-voice/j_side_9_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_side_9_nodes_0_lines_1",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "53555ee5c8737b2c78618a27b68b3a2f57f287817066195a5df0beeb6f487468",
+      "bytes": 13824,
+      "durationSeconds": 2.3,
+      "path": "assets/journey-voice/j_side_9_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_side_9_nodes_0_lines_2",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "d203c65ed4dd09005606fb86466f53550da4f9b055c6f14564351b2087476720",
+      "bytes": 40176,
+      "durationSeconds": 6.628,
+      "path": "assets/journey-voice/j_side_9_nodes_0_lines_2.mp3"
+    },
+    {
+      "id": "j_side_9_nodes_1_lines_0",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "b0f1a03979daa4320425f00b5b1f28c747fc89de754997e4e10523049624bc8c",
+      "bytes": 33408,
+      "durationSeconds": 5.5,
+      "path": "assets/journey-voice/j_side_9_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_side_9_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "81ef605675d9b313b47a10699e8968eb2fdb7d62dad9f968eab031b44fdec5c6",
+      "bytes": 30384,
+      "durationSeconds": 5.063,
+      "path": "assets/journey-voice/j_side_9_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_side_9_nodes_1_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "0b8dcd444d992d568a880ed916933a8a7b33d50c51d2272d6c8462d5e4505275",
+      "bytes": 43488,
+      "durationSeconds": 7.197,
+      "path": "assets/journey-voice/j_side_9_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_side_9_nodes_2_lines_0",
+      "speaker": "doctor",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "b5b6f4584760a56d286cf6461a14302a075829d04d4d17ba2e5292f8dd9bcfae",
+      "bytes": 18288,
+      "durationSeconds": 3.05,
+      "path": "assets/journey-voice/j_side_9_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_side_9_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "a50b6304581e55dd60d073881eba4e0f39ca0101ac185753f587f3e37a2fa075",
+      "bytes": 34992,
+      "durationSeconds": 5.768,
+      "path": "assets/journey-voice/j_side_9_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_side_9_nodes_2_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "da457990ef1dedae667afc950f50f52e9421a5c6ecf8fe3611415816cd13a28c",
+      "bytes": 38448,
+      "durationSeconds": 6.342,
+      "path": "assets/journey-voice/j_side_9_nodes_2_after_0.mp3"
+    },
+    {
+      "id": "j_side_10_nodes_0_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "33991f117fcfbfbbbbccc6aca4856338bfa2c693070be4e5009d8af25728bb2c",
+      "bytes": 42336,
+      "durationSeconds": 7.005,
+      "path": "assets/journey-voice/j_side_10_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_side_10_nodes_0_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "343ab0b542003229c3e9d7414b99d9a2760ec0d7438386db61764d1a19dbc39c",
+      "bytes": 39456,
+      "durationSeconds": 6.523,
+      "path": "assets/journey-voice/j_side_10_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_side_10_nodes_1_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "74869a14f27dd39cc103539bd0c02e4bd0887b751567248ae60e7e19ecdae68e",
+      "bytes": 28944,
+      "durationSeconds": 4.816,
+      "path": "assets/journey-voice/j_side_10_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_side_10_nodes_1_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "290d34aae7f1e889d52d21155a9bc4a5e5cea1531578d6f8af241e6bd5b527a3",
+      "bytes": 46080,
+      "durationSeconds": 7.617,
+      "path": "assets/journey-voice/j_side_10_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_side_10_nodes_1_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "116e5c429fe41e504c27b94ddcc64184cdd02ab35e8eb0cdc233ab52d037faed",
+      "bytes": 39744,
+      "durationSeconds": 6.566,
+      "path": "assets/journey-voice/j_side_10_nodes_1_after_0.mp3"
+    },
+    {
+      "id": "j_side_10_nodes_2_lines_0",
+      "speaker": "scribe",
+      "voice": "zh-CN-YunyangNeural",
+      "hash": "425c1e246a6906cbef136c93cfbb959dc3f4f32fc032b0b6fe5ca154217bad74",
+      "bytes": 32256,
+      "durationSeconds": 5.312,
+      "path": "assets/journey-voice/j_side_10_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_side_10_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "e86a997b05c0bbdb7d3dd647f171a44de73c90fd0c7376b56131230b9fe09331",
+      "bytes": 35424,
+      "durationSeconds": 5.833,
+      "path": "assets/journey-voice/j_side_10_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_side_10_nodes_2_after_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "e482bf15b784097ecab23666985c5085dffd51cebc41bd7f2e72ab635e36108d",
+      "bytes": 32256,
+      "durationSeconds": 5.316,
+      "path": "assets/journey-voice/j_side_10_nodes_2_after_0.mp3"
+    },
+    {
+      "id": "j_side_11_nodes_0_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "ecce476601d30ab928b23dcdc1ab0db2970543fbbed4fe02ecc41153b8cd2119",
+      "bytes": 34416,
+      "durationSeconds": 5.677,
+      "path": "assets/journey-voice/j_side_11_nodes_0_lines_0.mp3"
+    },
+    {
+      "id": "j_side_11_nodes_0_lines_1",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "5c4f627f4d91aef1872f95dd0f0e5c3a46bf63abe8562228cb75411f9804e8e1",
+      "bytes": 34848,
+      "durationSeconds": 5.792,
+      "path": "assets/journey-voice/j_side_11_nodes_0_lines_1.mp3"
+    },
+    {
+      "id": "j_side_11_nodes_1_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "8e0ed8e6ed1f87a9bd24c0aa76cb1b0a732c57886ee1a7bd3b2dc4f2270899df",
+      "bytes": 36576,
+      "durationSeconds": 6.029,
+      "path": "assets/journey-voice/j_side_11_nodes_1_lines_0.mp3"
+    },
+    {
+      "id": "j_side_11_nodes_1_lines_1",
+      "speaker": "suwan",
+      "voice": "zh-CN-XiaoyiNeural",
+      "hash": "9f684daaddd1470529ac216951dfb15b300e3a6b3d51a657d0d6aae9c820698f",
+      "bytes": 33696,
+      "durationSeconds": 5.61,
+      "path": "assets/journey-voice/j_side_11_nodes_1_lines_1.mp3"
+    },
+    {
+      "id": "j_side_11_nodes_2_lines_0",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "1f823d1722c8e97aafe03f3961dd28474dc599c3061d2b2661bb41ee2e1a18ac",
+      "bytes": 43632,
+      "durationSeconds": 7.201,
+      "path": "assets/journey-voice/j_side_11_nodes_2_lines_0.mp3"
+    },
+    {
+      "id": "j_side_11_nodes_2_lines_1",
+      "speaker": "hero",
+      "voice": "zh-CN-YunxiNeural",
+      "hash": "a6d5bb60de755f558d5de0bfc9c8eb8d92d2acff8796e7294e6a03308fca1756",
+      "bytes": 32832,
+      "durationSeconds": 5.417,
+      "path": "assets/journey-voice/j_side_11_nodes_2_lines_1.mp3"
+    },
+    {
+      "id": "j_side_11_nodes_2_choices_0_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "16ffc639c29a0c08d82fcf66683b639bc2139225b018466cbba540b7841ea95b",
+      "bytes": 39744,
+      "durationSeconds": 6.553,
+      "path": "assets/journey-voice/j_side_11_nodes_2_choices_0_result_0.mp3"
+    },
+    {
+      "id": "j_side_11_nodes_2_choices_1_result_0",
+      "speaker": "narrator",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "hash": "8914c6e7c4edf87e8cfd7b5ffc2d055cac1db2427f7e20aaa4296bf589b15758",
+      "bytes": 44064,
+      "durationSeconds": 7.276,
+      "path": "assets/journey-voice/j_side_11_nodes_2_choices_1_result_0.mp3"
+    }
+  ]
+}

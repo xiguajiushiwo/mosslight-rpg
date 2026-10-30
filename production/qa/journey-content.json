@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-30",
+  "targetMinutes": 600,
+  "verifiedHumanPlaytimeMinutes": null,
+  "status": "Development target; authored content counts are not a playtime measurement.",
+  "chapters": 8,
+  "mainObjectives": 48,
+  "sideQuestChains": 12,
+  "sideStages": 36,
+  "dialogueLines": 322,
+  "dialogueCharacters": 7781,
+  "choicePoints": 12,
+  "puzzles": 13,
+  "encounters": 25,
+  "defenseObjectives": 9,
+  "bossObjectives": 3,
+  "chapterBreakdown": [
+    {
+      "title": "灯下的空椅",
+      "region": "萤火村",
+      "mainObjectives": 6,
+      "sideQuestChains": 2
+    },
+    {
+      "title": "没有署名的人",
+      "region": "暮萤旧林",
+      "mainObjectives": 6,
+      "sideQuestChains": 2
+    },
+    {
+      "title": "两个人的远方",
+      "region": "风语芦泽",
+      "mainObjectives": 6,
+      "sideQuestChains": 1
+    },
+    {
+      "title": "被涂掉的名字",
+      "region": "沉钟矿井",
+      "mainObjectives": 6,
+      "sideQuestChains": 2
+    },
+    {
+      "title": "海在信的背面",
+      "region": "栖潮旧港",
+      "mainObjectives": 6,
+      "sideQuestChains": 2
+    },
+    {
+      "title": "不完美的家",
+      "region": "雨夜归村",
+      "mainObjectives": 6,
+      "sideQuestChains": 1
+    },
+    {
+      "title": "替明天留一盏灯",
+      "region": "回声旧塔",
+      "mainObjectives": 6,
+      "sideQuestChains": 1
+    },
+    {
+      "title": "写给尚未到来的日子",
+      "region": "长明山脊",
+      "mainObjectives": 6,
+      "sideQuestChains": 1
+    }
+  ]
+}

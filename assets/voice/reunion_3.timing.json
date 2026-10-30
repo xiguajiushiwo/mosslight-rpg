@@ -1,0 +1,11 @@
+{
+  "id": "reunion_3",
+  "speaker": "hero",
+  "path": "assets/voice/reunion_3.mp3",
+  "voice": "zh-CN-YunxiNeural",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "bytes": 33264,
+  "durationSeconds": 5.489,
+  "textSha256": "7e893b45911b7b13ff140ab78a51333f461c27da2040b99ad5f6b39656a90890"
+}

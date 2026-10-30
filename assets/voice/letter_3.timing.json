@@ -1,0 +1,11 @@
+{
+  "id": "letter_3",
+  "speaker": "hero",
+  "path": "assets/voice/letter_3.mp3",
+  "voice": "zh-CN-YunxiNeural",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "bytes": 25488,
+  "durationSeconds": 4.185,
+  "textSha256": "a38845c38e51263ffe8152d41fc8142575c8b80e140c79b954d91603f9d51ae5"
+}

@@ -1,0 +1,349 @@
+{
+  "lineCount": 38,
+  "totalBytes": 1412928,
+  "totalDurationSeconds": 235.488,
+  "files": [
+    {
+      "id": "homecoming_0",
+      "bytes": 47664,
+      "frames": 331,
+      "durationSeconds": 7.944,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "homecoming_1",
+      "bytes": 26496,
+      "frames": 184,
+      "durationSeconds": 4.416,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "homecoming_2",
+      "bytes": 18720,
+      "frames": 130,
+      "durationSeconds": 3.12,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "homecoming_3",
+      "bytes": 40464,
+      "frames": 281,
+      "durationSeconds": 6.744,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "letter_0",
+      "bytes": 37440,
+      "frames": 260,
+      "durationSeconds": 6.24,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "letter_1",
+      "bytes": 36288,
+      "frames": 252,
+      "durationSeconds": 6.048,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "letter_2",
+      "bytes": 45792,
+      "frames": 318,
+      "durationSeconds": 7.632,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "letter_3",
+      "bytes": 25488,
+      "frames": 177,
+      "durationSeconds": 4.248,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "music_0",
+      "bytes": 38160,
+      "frames": 265,
+      "durationSeconds": 6.36,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "music_1",
+      "bytes": 35568,
+      "frames": 247,
+      "durationSeconds": 5.928,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "music_2",
+      "bytes": 37152,
+      "frames": 258,
+      "durationSeconds": 6.192,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "music_3",
+      "bytes": 56160,
+      "frames": 390,
+      "durationSeconds": 9.36,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "reunion_0",
+      "bytes": 37296,
+      "frames": 259,
+      "durationSeconds": 6.216,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "reunion_1",
+      "bytes": 18720,
+      "frames": 130,
+      "durationSeconds": 3.12,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "reunion_2",
+      "bytes": 34848,
+      "frames": 242,
+      "durationSeconds": 5.808,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "reunion_3",
+      "bytes": 33264,
+      "frames": 231,
+      "durationSeconds": 5.544,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "river_0",
+      "bytes": 39744,
+      "frames": 276,
+      "durationSeconds": 6.624,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "river_1",
+      "bytes": 36720,
+      "frames": 255,
+      "durationSeconds": 6.12,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "river_2",
+      "bytes": 48240,
+      "frames": 335,
+      "durationSeconds": 8.04,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "river_3",
+      "bytes": 33120,
+      "frames": 230,
+      "durationSeconds": 5.52,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "stars_0",
+      "bytes": 32688,
+      "frames": 227,
+      "durationSeconds": 5.448,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "stars_1",
+      "bytes": 37728,
+      "frames": 262,
+      "durationSeconds": 6.288,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "stars_2",
+      "bytes": 24912,
+      "frames": 173,
+      "durationSeconds": 4.152,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "stars_3",
+      "bytes": 61920,
+      "frames": 430,
+      "durationSeconds": 10.32,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "father_0",
+      "bytes": 45216,
+      "frames": 314,
+      "durationSeconds": 7.536,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "father_1",
+      "bytes": 21744,
+      "frames": 151,
+      "durationSeconds": 3.624,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "father_2",
+      "bytes": 41328,
+      "frames": 287,
+      "durationSeconds": 6.888,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "father_3",
+      "bytes": 33408,
+      "frames": 232,
+      "durationSeconds": 5.568,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "father_4",
+      "bytes": 42768,
+      "frames": 297,
+      "durationSeconds": 7.128,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "guardian_0",
+      "bytes": 52272,
+      "frames": 363,
+      "durationSeconds": 8.712,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "guardian_1",
+      "bytes": 23328,
+      "frames": 162,
+      "durationSeconds": 3.888,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "guardian_2",
+      "bytes": 36144,
+      "frames": 251,
+      "durationSeconds": 6.024,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "ending_0",
+      "bytes": 45216,
+      "frames": 314,
+      "durationSeconds": 7.536,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "ending_1",
+      "bytes": 31824,
+      "frames": 221,
+      "durationSeconds": 5.304,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "ending_2",
+      "bytes": 49248,
+      "frames": 342,
+      "durationSeconds": 8.208,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "ending_3",
+      "bytes": 29664,
+      "frames": 206,
+      "durationSeconds": 4.944,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "ending_4",
+      "bytes": 24336,
+      "frames": 169,
+      "durationSeconds": 4.056,
+      "sampleRates": [
+        24000
+      ]
+    },
+    {
+      "id": "ending_5",
+      "bytes": 51840,
+      "frames": 360,
+      "durationSeconds": 8.64,
+      "sampleRates": [
+        24000
+      ]
+    }
+  ]
+}

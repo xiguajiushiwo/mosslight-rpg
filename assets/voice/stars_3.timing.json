@@ -1,0 +1,11 @@
+{
+  "id": "stars_3",
+  "speaker": "narrator",
+  "path": "assets/voice/stars_3.mp3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-10%",
+  "pitch": "-2Hz",
+  "bytes": 61920,
+  "durationSeconds": 10.25,
+  "textSha256": "8ad85c7f4edd35b8f0cb2fdc997e58c029796cb652731e1ba45717ccf27df650"
+}

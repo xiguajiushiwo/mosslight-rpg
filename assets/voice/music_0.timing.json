@@ -1,0 +1,11 @@
+{
+  "id": "music_0",
+  "speaker": "mother",
+  "path": "assets/voice/music_0.mp3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-12%",
+  "pitch": "-5Hz",
+  "bytes": 38160,
+  "durationSeconds": 6.293,
+  "textSha256": "4c6416a8add691b22febacd49062f6a232b55611eab3cf09e675b78f5cb1cf3b"
+}

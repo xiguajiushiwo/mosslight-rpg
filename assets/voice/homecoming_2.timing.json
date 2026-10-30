@@ -1,0 +1,11 @@
+{
+  "id": "homecoming_2",
+  "speaker": "father",
+  "path": "assets/voice/homecoming_2.mp3",
+  "voice": "zh-CN-YunyangNeural",
+  "rate": "-12%",
+  "pitch": "-8Hz",
+  "bytes": 18720,
+  "durationSeconds": 3.054,
+  "textSha256": "c9b5f6a0e36c7d4d42c786c592b83dcf772151d69f74df538769cf86b3e616b5"
+}

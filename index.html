@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#102821">
+  <meta name="description" content="苔灯之森：一款关于微光、遗迹与归途的原创森林动作 RPG。">
+  <title>苔灯之森 · 归途来信</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23102821'/%3E%3Cpath d='M32 9 45 31 32 55 19 31Z' fill='%23d8ebb7'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="src/core.js"></script>
+  <script defer src="src/audio.js"></script>
+  <script defer src="src/story.js"></script>
+  <script defer src="src/portraits.js"></script>
+  <script defer src="src/actors.js"></script>
+  <script defer src="src/voice.js"></script>
+  <script defer src="src/game.js"></script>
+</head>
+<body>
+  <main id="game-shell">
+    <canvas id="world" aria-label="苔灯之森游戏地图。WASD移动，J攻击，K法术，E交互。" tabindex="0"></canvas>
+    <div class="vignette" aria-hidden="true"></div>
+    <section id="title-screen" class="title-screen">
+      <div class="edition"><span class="tiny-mark">✧</span> 归途来信 · 故事篇</div>
+      <div class="title-copy">
+        <p class="eyebrow">LETTERS ON THE WAY HOME</p>
+        <h1>苔灯<span>之森</span><i>✦</i></h1>
+        <p class="english-title">M O S S L I G H T</p>
+        <p class="intro">有些话，想在灯亮着的时候告诉你。<br>一封家书，一盏河灯，一段重新走近彼此的路。</p>
+        <div class="title-actions">
+          <a href="journey.html" class="primary" style="display:inline-block;padding:14px 20px;border-radius:4px;background:#c8d9ac;color:#203c30;text-decoration:none;font-size:12px">新篇章 · 长夜与归途 ↗</a>
+          <button id="start-btn" class="primary">踏入森林 <span>↗</span></button>
+          <button id="continue-btn" class="secondary" hidden>继续旅程 <span>→</span></button>
+        </div>
+        <button id="how-btn" class="text-button">第一次来？ 查看冒险指南 <span>＋</span></button>
+      </div>
+      <div class="title-foot"><span>亲情 · 爱情 · 中文合成配音</span><span>把没说出口的爱，写给明天 <b>✧</b></span></div>
+      <div class="scene-caption"><span class="little-line"></span> 暮萤林地 <small>THE FIREFLY WOODS</small></div>
+    </section>
+
+    <section id="hud" hidden aria-label="游戏状态">
+      <div class="hero-panel"><div class="portrait"><canvas id="hero-avatar" width="120" height="150"></canvas><span id="level-badge">1</span></div><div class="hero-bars"><div class="hero-name">林舟 <span id="level-label">LV. 1</span></div><div class="meter health"><i id="hp-bar"></i><span id="hp-label">100 / 100</span></div><div class="meter mana"><i id="mp-bar"></i><span id="mp-label">60 / 60</span></div><div class="xp-track"><i id="xp-bar"></i></div></div></div>
+      <div class="top-center"><span class="location-dot"></span><span id="region-name">萤火村</span><small id="save-status">旅途已记录</small></div>
+      <div class="top-tools"><span class="coins"><b>◈</b> <span id="coin-count">0</span></span><button id="journal-btn" title="回忆手札 V" aria-label="回忆手札">✉</button><button id="talent-btn" title="天赋 N" aria-label="成长天赋">✧<i id="talent-dot" hidden></i></button><button id="map-btn" title="地图 M" aria-label="打开地图">⌖</button><button id="bag-btn" title="背包 I" aria-label="打开背包">▤</button><button id="sound-btn" title="声音" aria-label="关闭声音">♫</button><button id="pause-btn" title="暂停 Esc" aria-label="暂停游戏">Ⅱ</button></div>
+      <div id="boss-hud" hidden><div><span>古林的最后回声</span><b>荒根守卫</b></div><div class="boss-track"><i id="boss-bar"></i></div></div>
+      <div class="quest-panel"><span class="quest-icon">◇</span><div><small>林间的约定</small><h2 id="quest-title">一盏未亮的灯</h2><p id="quest-detail">与村中的守灯人交谈</p><span id="quest-progress"></span></div></div>
+      <div id="companion-hud" hidden><span>苏晚 <small id="companion-state">与你同行</small></span><div><i id="companion-bar"></i></div></div>
+      <div id="combo-label" aria-live="off"></div>
+      <div class="hotbar"><button id="attack-btn" title="三式连击 J / 空格"><span class="skill-icon">⚔</span><kbd>J</kbd><small>连击</small></button><button id="magic-btn" title="蓄力萤火术 K"><span class="skill-icon">✧</span><kbd>K</kbd><small>萤火术</small><i id="magic-cooldown"></i></button><button id="dash-btn" title="翻滚 Shift"><span class="skill-icon">➶</span><kbd>⇧</kbd><small>翻滚</small><i id="dash-cooldown"></i></button><button id="resonance-btn" title="同行共鸣 L"><span class="skill-icon">❦</span><kbd>L</kbd><small>同行共鸣</small><i id="resonance-cooldown"></i></button><button id="potion-btn" title="治疗药水 Q"><span class="skill-icon potion-icon">♜</span><kbd>Q</kbd><small>药水 <b id="potion-count">3</b></small></button></div>
+      <div class="bottom-hint"><span><kbd>W A S D</kbd> 移动</span><span><kbd>E</kbd> 交互</span></div>
+      <div id="interact-hint" hidden><kbd>E</kbd> <span>交谈</span></div>
+      <div id="touch-pad" aria-label="触控方向键"><button data-move="up" aria-label="向上">↑</button><button data-move="left" aria-label="向左">←</button><button data-move="down" aria-label="向下">↓</button><button data-move="right" aria-label="向右">→</button></div>
+      <button id="touch-interact" aria-label="交互">E</button>
+    </section>
+    <div id="toasts" role="status" aria-live="polite"></div>
+
+    <section id="dialogue" class="dialogue" hidden aria-label="角色对话"><div class="dialogue-portrait">✦</div><div class="dialogue-copy"><p id="speaker-name">守灯人 · 洛恩</p><p id="dialogue-text"></p><div id="dialogue-actions"></div></div></section>
+
+    <section id="cinema" hidden aria-label="故事演出">
+      <div class="cinema-top"><div><span id="scene-title"></span><small id="scene-place"></small></div><button id="scene-skip">跳过演出 ›</button></div>
+      <div class="cinema-bottom"><canvas id="scene-portrait" width="360" height="450" aria-label="说话人物立绘"></canvas><div class="subtitle-block"><div class="speaker-line"><span id="scene-speaker"></span><small id="scene-role"></small></div><p id="scene-text"></p><div class="scene-controls"><span id="voice-status">中文合成配音</span><button id="voice-toggle" aria-label="关闭配音">配音 开</button><button id="scene-auto">自动播放 开</button><button id="scene-next">下一句 <kbd>空格</kbd></button></div></div></div>
+      <div id="scene-progress"></div>
+    </section>
+
+    <div id="modal-shade" class="modal-shade" hidden><section id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title"><button id="modal-close" aria-label="关闭窗口">×</button><p id="modal-kicker" class="eyebrow">MOSSLIGHT</p><h2 id="modal-title"></h2><div id="modal-content"></div></section></div>
+    <div id="transition" aria-hidden="true"></div>
+  </main>
+  <noscript>请启用 JavaScript 以游玩苔灯之森。</noscript>
+</body>
+</html>

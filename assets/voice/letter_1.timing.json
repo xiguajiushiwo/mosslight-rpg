@@ -1,0 +1,11 @@
+{
+  "id": "letter_1",
+  "speaker": "father",
+  "path": "assets/voice/letter_1.mp3",
+  "voice": "zh-CN-YunyangNeural",
+  "rate": "-12%",
+  "pitch": "-8Hz",
+  "bytes": 36288,
+  "durationSeconds": 5.994,
+  "textSha256": "664936745d86196f41e50f2008f09961fba50ab3091693b3bdb6c611b7f17a10"
+}

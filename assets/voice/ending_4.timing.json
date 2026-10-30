@@ -1,0 +1,11 @@
+{
+  "id": "ending_4",
+  "speaker": "mother",
+  "path": "assets/voice/ending_4.mp3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-12%",
+  "pitch": "-5Hz",
+  "bytes": 24336,
+  "durationSeconds": 4.006,
+  "textSha256": "7dc6a8606cc12faf41d75f1bf5b1f6812024425740780da9ff6d2d1a901e2cce"
+}

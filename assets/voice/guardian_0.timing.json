@@ -1,0 +1,11 @@
+{
+  "id": "guardian_0",
+  "speaker": "narrator",
+  "path": "assets/voice/guardian_0.mp3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-10%",
+  "pitch": "-2Hz",
+  "bytes": 52272,
+  "durationSeconds": 8.653,
+  "textSha256": "5c9865746b2e6a6001e22ec0af39cad27dd9d980c3f7d14c342cd0b39a3d92be"
+}

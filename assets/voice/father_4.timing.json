@@ -1,0 +1,11 @@
+{
+  "id": "father_4",
+  "speaker": "father",
+  "path": "assets/voice/father_4.mp3",
+  "voice": "zh-CN-YunyangNeural",
+  "rate": "-12%",
+  "pitch": "-8Hz",
+  "bytes": 42768,
+  "durationSeconds": 7.06,
+  "textSha256": "bf17d6a41cb2802628cc8fd7e93e8b8112a0c50d82f42b78c39329d3cc429a26"
+}

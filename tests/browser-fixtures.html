@@ -1,0 +1,16 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><title>Mosslight story QA fixtures</title><script src="../src/core.js"></script><style>body{font:16px system-ui;background:#132f25;color:#e4e4c8;padding:40px;max-width:750px}button{display:block;margin:12px 0;padding:15px;background:#b5cb99;border:0;border-radius:4px;cursor:pointer}small{color:#b4c7a0}</style><h1>故事篇 · 浏览器验证场景</h1><p>仅供 localhost 测试。每个按钮会替换此测试域名的故事存档，然后打开标题界面。127.0.0.1 的玩家存档不受影响。</p><div id="buttons"></div><script>
+const C=window.MosslightCore;
+function prepare(kind){
+  if(location.hostname!=='localhost'){alert('请使用 localhost 测试域名');return;}
+  const g=new C.Game();g.acceptQuest();g.seen=new Set(['homecoming','letter']);
+  for(const e of g.enemies){if(e.type!=='boss'){e.alive=false;e.hp=0;g.killed.add(e.id);}}
+  if(['escort','stars','father','ending'].includes(kind)){g.completeMemory('music');g.seen.add('music');}
+  if(['stars','father','ending'].includes(kind)){g.completeMemory('escort');g.seen.add('reunion');g.seen.add('river');g.companion.joined=true;}
+  if(['father','ending'].includes(kind)){g.completeMemory('stars');g.seen.add('stars');}
+  const pos={music:[430,520],escort:[1515,1190],stars:[1410,402],father:[580,1270],ending:[2010,280],action:[610,1340]}[kind];g.player.x=pos[0];g.player.y=pos[1];
+  if(kind==='ending'){g.turnIn();g.seen.add('father');g.seen.add('guardian');const boss=g.enemies.find(e=>e.type==='boss');g.hitEnemy(boss,9999);}
+  if(kind==='action'){g.addXP(250);g.player.sword=true;g.player.mp=g.player.maxMp;}
+  g.events=[];localStorage.setItem('mosslight-story-save-v2',JSON.stringify(g.serialize()));location.href='../';
+}
+for(const [id,text]of [['music','音乐盒与母亲的回忆'],['escort','苏晚与护灯同行'],['stars','星图谜题与天赋'],['father','父亲的信与未来选择'],['ending','灯塔结局演出'],['action','角色动作展示']]){const b=document.createElement('button');b.textContent=text;b.onclick=()=>prepare(id);document.getElementById('buttons').append(b);}
+</script></html>

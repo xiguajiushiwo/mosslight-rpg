@@ -1,0 +1,11 @@
+{
+  "id": "father_1",
+  "speaker": "hero",
+  "path": "assets/voice/father_1.mp3",
+  "voice": "zh-CN-YunxiNeural",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "bytes": 21744,
+  "durationSeconds": 3.623,
+  "textSha256": "7b8319ccb0b4d98ffc5627af10fdd32fe6448e437cd0fa5da1a63a38a29ea50b"
+}
