@@ -1,7 +1,6 @@
 // Renders the actual game actor renderer for visual QA, without a browser.
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm');
-const runtime=process.env.MOSSLIGHT_NODE_MODULES||'C:/Users/Administrator/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules';
-const {createCanvas}=require(path.join(runtime,'@napi-rs/canvas'));
+const {createCanvas}=require(process.env.MOSSLIGHT_NODE_MODULES?path.join(process.env.MOSSLIGHT_NODE_MODULES,'@napi-rs/canvas'):'@napi-rs/canvas');
 const {Game}=require('../src/core.js');vm.runInThisContext(fs.readFileSync(path.resolve(__dirname,'../src/actors.js'),'utf8'));
 const out=path.resolve(__dirname,'../production/qa/action-frames');fs.mkdirSync(out,{recursive:true});
 const games=Array.from({length:4},()=>{const g=new Game();g.enemies.forEach(e=>e.alive=false);g.player.angle=0;return g;});

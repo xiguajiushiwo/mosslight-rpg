@@ -1,13 +1,13 @@
 # 苔灯之森 · MOSSLIGHT — 声音事件规范
 
-> Scope: minimal, individual sound designer. Direction and implementation belong to the parent developer. These are design targets; browser playback and output levels still require verification.
+> Scope: design targets for the shared procedural music and combat feedback in `src/audio.js`, originally defined for 《归途来信》. This is not a measured mixing report and does not cover narrative TTS; see the [short-story voice report](../story/voice-report.md) and [long-campaign voice report](../journey/voice-report.md) for dialogue audio.
 > Method: [Claude Code Game Studios — team-audio](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/team-audio/SKILL.md).
-> Sonic direction supplied by the project: gentle pentatonic bell/pluck forest melody, warm low drones, filtered wind, dry wooden melee strikes and crystalline magic; no external samples or services.
+> Sonic direction: gentle pentatonic bell/pluck forest melody, warm low drones, filtered wind, dry wooden melee strikes and crystalline magic. These procedural sounds use no external samples or services.
 
 ## 1. 声音语言与合成约束
 
 - Friendly interactions use rounded plucks and bell-like sine tones; magic and rewards sparkle briefly; melee uses dry wooden noise clicks; hostile impacts use low-passed deterministic noise and falling low tones. No piercing sustained alarms.
-- All assets are generated locally using Web Audio oscillators, envelopes and one seeded noise buffer. This specification does not compose the music.
+- The sound effects described here are generated locally using Web Audio oscillators, envelopes and one seeded noise buffer. This specification does not compose the music or describe the separately generated dialogue recordings.
 - Nominal gain below is each voice's peak envelope before master gain. Use a 4–10 ms attack and exponential release to a nonzero floor before stopping, avoiding clicks. Cap oscillator fundamentals at 2.4 kHz and low-pass noise around 2.2 kHz.
 - Small pitch variation uses seeded choices, not uncontrolled random volume. Spatial stereo is optional, at most ±0.45 pan; critical feedback stays near center. Quiet forest wind is nonessential ambience and never conveys a threat by itself.
 
@@ -32,7 +32,7 @@ Priority: P0 = survival/state change; P1 = action/progression; P2 = frequent tex
 | `interact` | NPC dialogue, chest opening or quest acceptance/completion actually begins; hollow wooden click plus a warm bell | 140–220 ms | 0.045 total | 2 context variants: NPC soft, chest brighter | ≥200 ms; ≤1 | P1 | Dialogue text, chest open state, or quest tracker change |
 | `potion` | Potion successfully consumes inventory and restores health; soft rising liquid-like sine wobble | 260–360 ms | 0.055 total | Pitch ±3%, 2 variants | Once per accepted use; ≤1 | P1 | Health rises, potion count decreases, healing particles |
 
-There are 14 event identifiers. Enemy death should prioritize `kill` over a same-frame `hit`; victory cancels redundant kill layers. Pickup batches must never become a continuously rising, high-pitched stream. Empty potion inventory, insufficient spell resources and unavailable cooldowns must not play a success cue. NPC text is fully readable; synthesized voice or per-letter chatter is unnecessary.
+There are 14 event identifiers. Enemy death should prioritize `kill` over a same-frame `hit`; victory cancels redundant kill layers. Pickup batches must never become a continuously rising, high-pitched stream. Empty potion inventory, insufficient spell resources and unavailable cooldowns must not play a success cue. NPC text remains fully readable when narrative voice playback is muted or unavailable.
 
 ## 3. 混音与资源预算
 
@@ -58,4 +58,4 @@ There are 14 event identifiers. Enemy death should prioritize `kill` over a same
 4. Dialogue/chest, potion, upgrade, boss, win and lose cues remain audible through their intended tails and have visible text/state equivalents.
 5. Test with audio disabled, unsupported or blocked: the complete run remains playable.
 
-Implementation and listening verification: **NOT ASSESSED — this artifact specifies targets only.** No unresolved design blocker.
+This artifact specifies design targets only. Browser playback observations are recorded in the [short-story verification](../../qa/verification.md) and [long-campaign verification](../../qa/journey-verification.md). The output-level ceiling and subjective mixing targets above have not been measured or confirmed by this document.

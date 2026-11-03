@@ -6,7 +6,7 @@
 
 全部 38 句已生成本地 MP3，位于 `assets/voice/`，不是浏览器朗读占位。总计 **1,412,928 字节**；逐 MPEG 音频帧解析的总时长为 **235.488 秒**（约 3 分 55 秒）。文件采样率为 24 kHz。服务返回的语音边界时长合计 233.595 秒，不包含完整文件尾部留白，与文件时长定义不同。结局林舟的台词已调整为适配两种未来约定，并重新生成对应音频。
 
-使用 Microsoft Edge Read Aloud 中文神经语音，由 PyPI `edge-tts 7.3.1` 开源客户端调用；依赖仅安装在本项目 `.tools/python-deps/`。首次直连试播成功，随后以最多两个并发请求完成全部生成，没有使用付费 API、Windows SAPI 回退或真人录音。只提交了本游戏原创剧情文本。
+使用 Microsoft Edge Read Aloud 中文神经语音，由 PyPI `edge-tts 7.3.1` 开源客户端调用。首次直连试播成功，随后以最多两个并发请求完成全部生成，没有使用付费 API、Windows SAPI 回退或真人录音。只提交了本游戏原创剧情文本。生成依赖仅用于开发，当前复现方式见下文的 `.venv` 安装步骤。
 
 | 角色 | 声线 | 句数 | 语速 / 音高 |
 |---|---|---:|---|
@@ -42,14 +42,21 @@ voice.resume();
 
 ## 复现与验证
 
-1. 使用 Python 安装开发依赖：`python -m pip install --target .tools/python-deps edge-tts`。
-2. `python tools/generate-voice.py --probe` 生成第一句以验证服务连接。
-3. `python tools/generate-voice.py` 生成全部台词；按文本 SHA-256 和声线配置缓存，台词或声线变化会重新生成。`--force` 可强制重做。
-4. `python tools/validate-voice.py` 检查全部 ID、文件大小、文本指纹、每一帧 MPEG 结构与时长。
-5. `node tests/voice.test.cjs` 检查取消旧句、文件播放失败回退、过期 Promise、静音、暂停恢复和无语音环境。
+在仓库根目录使用 Python 创建虚拟环境，并安装固定版本的配音依赖。以下为 Windows PowerShell 命令；直接调用虚拟环境中的 Python，无需修改脚本执行策略。
 
-脚本优先读取 `MOSSLIGHT_NODE` 环境变量，其次使用 PATH 中的 Node，最后使用本机 Codex 已有 Node 路径。生成需要网络；游戏播放已有本地 MP3 不需要网络。`.tools/python-deps/` 是生成阶段的开发依赖，不是游戏运行依赖。
+```powershell
+python -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r tools/requirements-voice.txt
+.\.venv\Scripts\python.exe tools/generate-voice.py --probe
+.\.venv\Scripts\python.exe tools/generate-voice.py
+.\.venv\Scripts\python.exe tools/validate-voice.py
+node --test tests/voice.test.cjs
+```
 
-验证结果：**38/38 资源存在、非空、文本指纹一致，全部 MP3 帧完整；播放模块行为测试通过。** 完整验证数据见 `validation.json`，生成清单见 `assets/voice/manifest.json`，原始台词快照见 `script.json`。
+[requirements-voice.txt](../../../tools/requirements-voice.txt) 固定 `edge-tts==7.3.1`。脚本从 `MOSSLIGHT_NODE` 指定的位置或 PATH 查找 Node；未配置 Node 时需先安装或设置路径，不依赖某台机器的 Codex 运行时目录。生成需要网络；播放已有本地 MP3 不需要联网，也不需要 Python、Node 或 `.venv`。
+
+短篇和长篇分别以各自资源目录中的 `manifest.json` 统一保存缓存记录，不再生成逐句 JSON。短篇按文本 SHA-256 与声线配置判断是否重新生成，`--force` 可强制重做。台词直接读取 [src/story.js](../../../src/story.js)，不另外维护重复的脚本快照。两版校验共用 [voice_common.py](../../../tools/voice_common.py) 中的 MPEG 帧解析器，检查台词指纹、文件大小、帧完整性与时长。
+
+验证结果：**38/38 资源存在、非空、文本指纹一致，全部 MP3 帧完整；播放模块行为测试通过。** 完整验证数据见 [validation.json](validation.json)，生成清单见 [manifest.json](../../../assets/voice/manifest.json)。
 
 真实浏览器已验证开场、父亲、苏晚与结局演出的本地播放状态，以及配音静音/重启、下一句、跳过的界面与流程。人工逐句听感和与背景音乐的主观混音体验尚未评估。神经合成声音已实际生成，但不声称达到真人配音表演水准。

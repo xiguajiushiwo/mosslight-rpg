@@ -1,9 +1,18 @@
+# Local dependencies and tool scratch space
 .tools/
-production/qa/action-frames/
-production/qa/journey-action-frames/
-production/qa/server*.log
-production/audio/**/generation.log
+.venv/
+node_modules/
 __pycache__/
+*.py[cod]
+
+# Reproducible intermediate output
+production/qa/*frames/
+*.log
+*.tmp
+
+# Local credentials and operating-system metadata
 .env
 .env.*
 !.env.example
+.DS_Store
+Thumbs.db

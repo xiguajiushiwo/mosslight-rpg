@@ -1,6 +1,6 @@
 # 苔灯之森 · MOSSLIGHT — Art Bible
 
-> Scope: minimal; sections 1–4. Review: solo. Separate Art Director sign-off skipped.
+> Scope: visual direction for the short story 《归途来信》 and the shared character, color and readability foundations used by both games. The long campaign adds regional scenery and character portraits in `src/journey-render.js` and `src/journey-portraits.js`; those additions are not an exhaustive part of this document.
 > Rendering: original Canvas 2D / CSS, detailed procedural world sprites and original vector character busts; no external image assets.
 > Method reference: [Claude Code Game Studios — art-bible](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/art-bible/SKILL.md).
 
@@ -65,5 +65,3 @@
 **Area temperature:** the village has the largest warm-light coverage; forest stays moss-dominant; river introduces teal; ruins reduce saturation. Boss attacks temporarily add coral without changing this underlying palette. Victory reintroduces village-like amber into the ruins, followed by cream and dusty sage dawn light. The mother is not resurrected by this lighting change: the final image holds memory and a living future together.
 
 **Accessibility:** green/coral separation is never sufficient. Slimes and wolves have distinct bodies; danger uses pulsing bounded ground shapes plus wind-up; rewards sparkle upward and remain compact; interactables carry symbols and Chinese text. Damage also produces recoil and a short outlined health change. Preserve high text contrast; do not place body text directly on animated foliage. Respect reduced-motion preferences by removing camera shake and reducing particle density while retaining attack anticipation.
-
-Sections 5–9 are outside the minimal scope and have not been authored.

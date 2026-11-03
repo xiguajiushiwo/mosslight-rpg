@@ -45,7 +45,7 @@
 - `story-ending.jpg`：结局页面。
 - `story-title.jpg`：新版正式入口标题。
 - `action-preview.gif`：真实角色渲染器的 48 帧动作预览，包含行走、连击、施法、翻滚。
-- `action-frames/`：逐帧原图。`title.jpg` 为保留的旧版截图。
+- 逐帧 PNG 属于临时生成物，不随仓库保留；需要检查时可运行 `node tools/render-actions.cjs`，重新生成到 `production/qa/action-frames/`。上述 GIF 与故事版截图保留为本次验证证据。
 
 ## 验证边界
 

@@ -1,7 +1,6 @@
 // Visual QA using the same campaign and actor renderer as journey.html.
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm');
-const runtime=process.env.MOSSLIGHT_NODE_MODULES||'C:/Users/Administrator/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules';
-const {createCanvas}=require(path.join(runtime,'@napi-rs/canvas'));
+const {createCanvas}=require(process.env.MOSSLIGHT_NODE_MODULES?path.join(process.env.MOSSLIGHT_NODE_MODULES,'@napi-rs/canvas'):'@napi-rs/canvas');
 const {Campaign}=require('../src/journey-core.js');
 const {Renderer}=require('../src/journey-render.js');
 vm.runInThisContext(fs.readFileSync(path.resolve(__dirname,'../src/actors.js'),'utf8'));

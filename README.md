@@ -1,68 +1,152 @@
-# 苔灯之森 · MOSSLIGHT
+# 苔灯之森 · 长夜与归途
 
-新增长篇开发版 **《长夜与归途》**：打开 `journey.html`，或访问 [本地长篇入口](http://127.0.0.1:4178/journey.html)。原《归途来信》短篇仍在 `index.html`，两版存档独立。
+**一个关于亲情、爱情与告别的中文俯视角动作 RPG。** 玩家扮演离家三年的林舟，循着父亲的家书，穿过村庄、旧林、矿井与海港，寻找失联的弟弟，也重新认识母亲和爱人各自的人生。
 
-长篇以剧情与战术战斗为主体，种植、料理、修建辅助远行。八章串联家书、旧矿难、失联弟弟与苏晚的求学计划；短剑、长矛、重斧，体力、格挡/招架、元素法术、陷阱与同行援助共同组成战斗系统。地图可返回已解锁地区，手札保留人物支线和做过的选择。
+游戏以故事探索和战术战斗为主，种植、烹饪、修建为冒险提供补给。使用原生 HTML、CSS、Canvas 2D 与 Web Audio 开发，下载后即可在浏览器中游玩，无需游戏引擎、账号或付费 API。
 
-**时长边界：约 10 小时是扩展开发目标，不是本版本已经测得的通关时长。** 节点数量、音频长度和自动化通关都不能替代首次人工游玩计时。内容预算与验收方法见 `design/long-campaign.md`。
+> **当前状态：可试玩的开发版。** 已接通八章主线与结局；约 10 小时是后续扩展目标，尚未经过完整人工通关计时。配音为中文合成语音，演出为实时 2D 动画。
 
-长篇操作：WASD 移动，E 交互，J 攻击，空格格挡，Shift 翻滚，R 换武器，K 法术，T 换元素，F 陷阱，L 同行，Q 药水；M 地图、V 手札、I 行囊、N 天赋、H 帮助、Esc 暂停。空格在演出中推进台词。
+![游戏内的角色对话与剧情演出](production/qa/journey-scene-suwan.jpg)
 
-当前内容：48 个主线节点、12 条三阶段人物支线、13 个谜题、25 场目标战斗，以及 322 句本地中文合成配音。已有独立的八地区地图、三条成长路线、守灯战、烹饪、菜圃、修建和条件后日谈。双击 `开始长篇.cmd` 可直接打开。
+## 1. 游戏里有什么
 
-长篇文档：[试玩说明](design/journey-play-guide.md)、[测试记录与边界](production/qa/journey-verification.md)、[配音来源与校验](production/audio/journey/voice-report.md)。
+| 内容 | 当前实现 |
+|---|---|
+| 剧情 | 8 章、48 个主线节点、12 条三阶段人物支线；选择影响人物关系及后日谈 |
+| 探索 | 8 个地区，可返回已解锁地图；手札保存任务和做过的选择 |
+| 战斗 | 短剑、长矛、重斧；体力、方向格挡、精准招架、闪避、陷阱、同行援助 |
+| 敌人与法术 | 6 类敌人；火、霜、雷与天气互动；25 场目标战斗，含 9 场守灯与 3 场首领战 |
+| 解谜与成长 | 13 个谜题；经验升级，剑心、流萤、守望三条天赋路线 |
+| 家园 | 种植、烹饪、药水与工具制作、4 类修建；作物随行动与休息成长 |
+| 演出与声音 | 人物立绘、分肢体动作、运镜与字幕；322 句本地中文合成配音 |
+| 存档 | 浏览器本地自动存档，记录故事选择、成长、家园及战斗检查点 |
 
-剧情阅读（含全部剧透）：[完整剧情与结局](design/完整剧情.md)、[完整对白及所有分支](design/完整对白.md)。
+![长篇实战画面](production/qa/journey-combat.jpg)
 
-## 保留的短篇：《归途来信》
+## 2. 怎样开始游玩
 
-原创中文俯视角动作 RPG 故事篇。林舟离家三年后，因父亲的一封短信返乡。母亲的音乐盒、苏晚的河灯和两人小时候的星图，串起一段关于亲情、爱情与重新学会表达的旅程。结局温暖但有遗憾，最后留下希望。
+### 直接打开，无需安装依赖
 
-这是可以从开场玩到结局的短篇：三种不同的章节玩法、连击与法术、同行伙伴、经验与天赋、Boss、9 场游戏内动画演出，以及 38 句约 4 分钟的中文合成配音。
+下载仓库的 ZIP 并**完整解压**，然后：
 
-## 开始游玩
+- Windows：双击根目录的 **`开始长篇.cmd`**。
+- 其他系统：使用现代 Chrome、Edge 或 Firefox 打开 **`journey.html`**。
 
-直接双击 `开始冒险.cmd` 或 `index.html`，无需安装依赖，无需联网。推荐现代 Edge、Chrome 或 Firefox。
+游戏脚本和配音均在本地。请保留 `src/` 与 `assets/`，不要只下载一个 HTML 文件。浏览器可能需要首次点击后才能播放声音。
 
-也可以运行 `python serve.py`，然后打开 http://127.0.0.1:4178 。服务只绑定本机。
+### 使用本地服务器
 
-注意：文件入口和 localhost、不同端口属于不同存档位置。请始终从同一个入口继续游戏。浏览器隐私模式、禁用存储或清除站点数据可能导致无法保留存档。
+如果浏览器限制文件页面的音频或存储，可安装 Python 3，在项目根目录执行：
 
-## 操作
+```bash
+python serve.py
+```
+
+再打开 [http://127.0.0.1:4178/journey.html](http://127.0.0.1:4178/journey.html)。服务只监听本机；这个地址在启动本地服务后才可使用，GitHub 仓库页面本身不是在线游戏站点。
+
+### 仓库里的两个入口
+
+| 版本 | 入口 | 用途 |
+|---|---|---|
+| **长夜与归途** | `journey.html` / `开始长篇.cmd` | 当前主要开发的八章版本，建议先玩这个 |
+| 归途来信 | `index.html` / `开始冒险.cmd` | 保留的独立短篇，包含音乐盒、护灯同行、星镜和完整结局 |
+
+两版使用独立存档。存档保存在当前浏览器中，**不上传 GitHub**。文件入口、`localhost`、`127.0.0.1` 和不同端口之间不共享存档；继续游戏请使用同一入口。清除浏览器站点数据会清除进度。
+
+## 3. 操作与玩法
+
+以下为长篇操作；短篇的空格键用于攻击。
 
 | 按键 | 操作 |
 |---|---|
 | WASD / 方向键 | 移动 |
-| J / 空格 | 三式连击：斜斩、回身斩、重击（可按住） |
-| K | 蓄力萤火术，自动瞄准附近敌人（可按住） |
-| Shift | 翻滚，短暂无敌，可取消攻击动作 |
-| E | 交谈、探索、开箱、点亮灯塔 |
-| Q | 使用治疗药水 |
-| L | 同行共鸣，推进苏晚的故事后解锁 |
-| N | 分配成长天赋 |
-| V | 回忆手札、重温已看过的演出 |
-| I | 背包 |
-| M | 地图 |
-| Esc | 暂停 |
+| E | 交谈、调查、采集，或在营地打开生活菜单 |
+| J / R | 攻击 / 切换武器 |
+| 空格 / Shift | 持续格挡 / 闪避 |
+| K / T | 施法 / 切换火、霜、雷 |
+| F / L / Q | 布置陷阱 / 同行共鸣 / 使用药水 |
+| M / V | 地图 / 任务与回忆手札 |
+| I / N | 行囊 / 天赋 |
+| H / Esc | 帮助 / 暂停 |
+| 演出中的空格、E 或 Enter | 下一句对白 |
 
-触屏也有方向、战斗与交互按钮。对话、谜题、天赋、背包和地图会暂停战斗；切换窗口会自动暂停。演出可切换自动/手动推进、静音与跳过；空格或 E 推进台词。
+靠近金色任务标记后按 E；战斗结束后回到标记处再按 E，阅读线索继续故事。每章结束可前往下一地区，也可以留下完成支线。菜单和剧情演出会暂停战斗，切换窗口会自动暂停。
 
-## 冒险路线
+短剑灵活，长矛适合保持距离，重斧适合破甲。攻击、格挡和翻滚都需要管理体力；观察敌人的地面预警，给收招与撤退留出空间。营地位于各地区西南侧，可以料理、修建、种植与休息。更多细节见 [试玩说明](design/journey-play-guide.md)。
 
-开场后与父亲林远交谈，前往西北旧花园修复音乐盒。听懂母亲留下的线索后，去东南河畔见苏晚，陪她把河灯送到中央木桥南端，再一起解开北方旧塔的星镜。三段回忆集齐后回家，与父亲和解、许下关于未来的约定、接过月辉剑。最后前往东北遗迹挑战荒根守卫，点亮灯塔。
+## 4. 剧情与画面资料
 
-音乐盒考验顺序记忆；护灯考验路线与照应伙伴；星图考验镜面方向。战斗穿插其间，完成剧情同样能获得经验，无需只靠反复刷怪升级。每次升级获得一点天赋，可投入剑心（近战）、流萤（法术）、守望（生命与共鸣），各有三级。许下的约定会改变尾声文字。
+故事围绕未寄出的家书、旧矿难、母亲留下的歌和苏晚的求学计划展开。结局温暖但有遗憾；人物的选择会在之后的生活中留下回响。
 
-篝火附近缓慢恢复生命；父亲提供免费休息，米娅出售药水。死亡保留回忆、等级、天赋与装备，返回村庄并损失 10% 金币；河灯受损可以回河畔重新开始。自动存档发生在任务、天赋、宝箱、击杀等节点和每 8 秒。
+- [完整剧情、人物关系与结局](design/完整剧情.md)（包含全部剧透）。
+- [全部对白与分支](design/完整对白.md)（322 句对白，另附 21 段条件后日谈）。
+- [八章内容规划与时长目标](design/long-campaign.md)。
+- [八地区画面概览](production/qa/journey-regions-overview.png)。
 
-故事篇使用独立存档 `mosslight-story-save-v2`，不会覆盖第一版存档。旧版源代码备份在 `production/archive/mosslight-v1.zip`。
+下面的动作对照使用实际角色渲染器生成，用于展示武器和动作区别，并非实战录屏：
 
-## 技术与方法
+![短剑、长矛、重斧、格挡与翻滚](production/qa/journey-actions.gif)
 
-原生 HTML / CSS / Canvas 2D / Web Audio，无构建步骤或运行时第三方依赖。场景、动作角色、五幅人物立绘、配乐与音效由原创代码绘制/合成。角色分肢体表现行走、起手、命中、收招、蓄力、翻滚与受伤；演出包含运镜、角色姿态、记忆色调与字幕。
+## 5. 工程结构
 
-38 句主线语音已通过 Microsoft Edge Read Aloud 神经语音生成成本地 MP3，由 `edge-tts 7.3.1` 开源客户端调用，游戏播放不需要联网。这是合成配音，不是真人表演。生成来源、声线和复现方式见 `production/audio/story/voice-report.md`。只在本地音频不可用时尝试浏览器中文朗读，仍不可用则保留字幕。
+```text
+journey.html / journey.css  长篇页面入口与样式
+index.html / styles.css    独立短篇入口与样式
+src/                      剧情数据、核心逻辑、画面、声音与界面
+assets/journey-voice/      长篇 MP3 与统一配音清单
+assets/voice/              短篇 MP3 与统一配音清单
+design/                   玩法设计、美术规范、剧情与对白
+tests/                    核心回归测试及本地浏览器场景夹具
+tools/                    对白导出、内容统计、配音生成和验证工具
+production/audio/         音效规范、配音来源与验证记录
+production/qa/            验证报告与精选截图、动作预览
+serve.py                  仅供本机使用的静态服务器
+```
 
-参考 [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) 的轻量开发方法，使用美术与声音设计分工、简短设计文档、明确的声音事件、可见攻击预警和实际运行验证。原始方法链接见 design/game-brief.md、design/art/art-bible.md、production/audio/combat/sfx-spec.md。并非安装或运行其完整 Claude Code 工作室模板。
+游戏运行不需要 Node.js、Python 包或构建步骤。历史版本由 Git 记录；仓库不保存旧版 ZIP、临时安装目录、上传脚本、服务日志或渲染中间帧。
 
-核心逻辑与渲染分离。测试运行：`node --test tests/core.test.cjs tests/story.test.cjs tests/voice.test.cjs`。配音资源校验：`python tools/validate-voice.py`。验证结果及边界见 `production/qa/verification.md`。
+## 6. 开发与验证
+
+使用 Node.js 20 或更新版本，在项目根目录运行：
+
+```bash
+node --test tests/core.test.cjs tests/story.test.cjs tests/voice.test.cjs tests/journey-data.test.cjs tests/journey.test.cjs
+node tools/export-journey-story.cjs --check
+```
+
+更新游戏对白后，执行 `node tools/export-journey-story.cjs` 重新导出对白文档；`node tools/journey-content-report.cjs` 更新内容统计。
+
+配音文件校验需要 Python 3 与 Node.js，仅使用 Python 标准库：
+
+```bash
+python tools/validate-voice.py
+python tools/validate-journey-voice.py
+```
+
+生成新配音需要网络及可选开发依赖；现有 MP3 无需重新生成即可游玩：
+
+```bash
+python -m venv .venv
+# Windows: .venv\Scripts\activate
+# macOS / Linux: source .venv/bin/activate
+python -m pip install -r tools/requirements-voice.txt
+python tools/generate-journey-voice.py
+```
+
+短篇生成命令为 `python tools/generate-voice.py`。生成器按文本和声线配置从统一清单恢复缓存，不重复生成未变化的台词。Node.js 默认从 PATH 查找，也可通过 `MOSSLIGHT_NODE` 指定。
+
+可选动作预览工具：安装 `npm install --no-save --package-lock=false @napi-rs/canvas@0.1.100`，运行 `node tools/render-journey-actions.cjs` 或 `node tools/render-actions.cjs`。输出的 PNG 中间帧不会提交到 Git。
+
+浏览器场景夹具位于 `tests/journey-fixtures.html` 与 `tests/browser-fixtures.html`，仅允许使用 `localhost` 测试域名。它们会替换该测试域名的存档，用于快速验证指定场景。
+
+## 7. 完成度与后续方向
+
+当前 47 项核心测试通过，360 句长短篇配音资源通过完整帧与文本指纹校验。另已分场景检查剧情选择、营地、天赋、存档、实战输入和结局。详细证据与边界见 [长篇验证报告](production/qa/journey-verification.md) 和 [短篇验证记录](production/qa/verification.md)。
+
+全流程任务图检查使用程序推进部分战斗，不能代替人工首通。仍需完成：更丰富的独立场景与任务、完整游玩节奏和时长测量、更多玩家的战斗平衡反馈、逐句配音听感审校，以及触屏适配验证。
+
+## 8. 技术与资源来源
+
+场景、角色、立绘由 Canvas 绘制；配乐和音效使用 Web Audio 合成。中文配音来自 Microsoft Edge Read Aloud 神经语音，通过 `edge-tts` 生成成本地 MP3，属于合成配音。来源与配置见 [长篇配音记录](production/audio/journey/voice-report.md) 和 [短篇配音记录](production/audio/story/voice-report.md)。
+
+开发流程参考 [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) 的美术、音效分工与验证方法；游戏本身不依赖该工具或完整模板。美术与音效约束保存在 [美术规范](design/art/art-bible.md) 和 [声音设计](production/audio/combat/sfx-spec.md)。
